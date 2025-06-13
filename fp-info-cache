@@ -1,4 +1,4 @@
-26648610311470496
+27001225659897527
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -31,6 +31,13 @@ Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
 Bulgin BX0036
+0
+2
+2
+Battery
+BatteryHolder_Bulgin_BX0123_1xCR123
+Battery holder, Bulgin BX0123, battery type 1xCR123 (Script generated with StandardBox.py) (https://www.bulgin.com/products/pub/media/import/attachments/Battery_holders.pdf#page=7)
+horizontal single
 0
 2
 2
@@ -252,9 +259,23 @@ BC2003 CR2032 2032 Battery Holder
 3
 2
 Battery
+BatteryHolder_MPD_BH-18650-PC
+Battery holder, MPD BH-18650, battery type 1x18650 (Script generated with StandardBox.py) (https://www.batteryholders.com/uploads/parts/BH-18650-PC/datasheets/BH-18650-PC-datasheet.pdf)
+horizontal single
+0
+2
+2
+Battery
 BatteryHolder_MPD_BH-18650-PC2
 18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)
 18650 Battery Holder
+0
+2
+2
+Battery
+BatteryHolder_MPD_BK-18650-PC2
+Battery holder, MPD BK-18650, battery type 1x18650 (Script generated with StandardBox.py) (https://www.batteryholders.com/uploads/parts/BK-18650-PC2/datasheets/BK-18650-PC2-datasheet.pdf)
+horizontal single
 0
 2
 2
@@ -6741,6 +6762,13 @@ capacitor tantalum
 2
 2
 Connector
+BJB_Pico_46.110.1001_Receptacle_Horizontal
+BJB Pico, single terminal block/receptacle, uninsulated, SMD, 6.9x2.3x2.7mm, https://www.bjb.com/media/7a/b3/df/1740905546/DM-6265102-v6_BJB_Datasheet_46.110.1001-0_SMD_Terminal_block_without_housing_Update_03_2022.PDF
+socket
+0
+5
+1
+Connector
 Banana_Cliff_FCR7350B_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, black, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
 cliff 4mm socket jack banana black
@@ -9380,6 +9408,160 @@ DIN 41612 IEC 60603 F
 48
 48
 Connector_DIN
+DIN41612_M-flat_3x8+8_Female_Vertical_THT
+DIN41612 connector, type M-flat, Vertical, 3 rows 8 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-flat
+0
+24
+24
+Connector_DIN
+DIN41612_M-flat_3x14+6_Female_Vertical_THT
+DIN41612 connector, type M-flat, Vertical, 3 rows 14 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-flat
+0
+42
+42
+Connector_DIN
+DIN41612_M-flat_3x20+4_Female_Vertical_THT
+DIN41612 connector, type M-flat, Vertical, 3 rows 20 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-flat
+0
+60
+60
+Connector_DIN
+DIN41612_M-flat_3x26+2_Female_Vertical_THT
+DIN41612 connector, type M-flat, Vertical, 3 rows 26 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-flat
+0
+78
+78
+Connector_DIN
+DIN41612_M-invers_3x2+10_Female_Horizontal_THT
+DIN41612 connector, type M-invers, Horizontal, 3 rows 2 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+6
+6
+Connector_DIN
+DIN41612_M-invers_3x2+10_Male_Vertical_THT
+DIN41612 connector, type M-invers, Vertical, 3 rows 2 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+6
+6
+Connector_DIN
+DIN41612_M-invers_3x8+8_Female_Horizontal_THT
+DIN41612 connector, type M-invers, Horizontal, 3 rows 8 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+24
+24
+Connector_DIN
+DIN41612_M-invers_3x8+8_Male_Vertical_THT
+DIN41612 connector, type M-invers, Vertical, 3 rows 8 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+24
+24
+Connector_DIN
+DIN41612_M-invers_3x14+6_Female_Horizontal_THT
+DIN41612 connector, type M-invers, Horizontal, 3 rows 14 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+42
+42
+Connector_DIN
+DIN41612_M-invers_3x14+6_Male_Vertical_THT
+DIN41612 connector, type M-invers, Vertical, 3 rows 14 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+42
+42
+Connector_DIN
+DIN41612_M-invers_3x20+4_Female_Horizontal_THT
+DIN41612 connector, type M-invers, Horizontal, 3 rows 20 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+60
+60
+Connector_DIN
+DIN41612_M-invers_3x20+4_Male_Vertical_THT
+DIN41612 connector, type M-invers, Vertical, 3 rows 20 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+60
+60
+Connector_DIN
+DIN41612_M-invers_3x26+2_Female_Horizontal_THT
+DIN41612 connector, type M-invers, Horizontal, 3 rows 26 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+78
+78
+Connector_DIN
+DIN41612_M-invers_3x26+2_Male_Vertical_THT
+DIN41612 connector, type M-invers, Vertical, 3 rows 26 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M-invers
+0
+78
+78
+Connector_DIN
+DIN41612_M_3x8+8_Female_Vertical_THT
+DIN41612 connector, type M, Vertical, 3 rows 8 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+24
+24
+Connector_DIN
+DIN41612_M_3x8+8_Male_Horizontal_THT
+DIN41612 connector, type M, Horizontal, 3 rows 8 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+24
+24
+Connector_DIN
+DIN41612_M_3x14+6_Female_Vertical_THT
+DIN41612 connector, type M, Vertical, 3 rows 14 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+42
+42
+Connector_DIN
+DIN41612_M_3x14+6_Male_Horizontal_THT
+DIN41612 connector, type M, Horizontal, 3 rows 14 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+42
+42
+Connector_DIN
+DIN41612_M_3x20+4_Female_Vertical_THT
+DIN41612 connector, type M, Vertical, 3 rows 20 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+60
+60
+Connector_DIN
+DIN41612_M_3x20+4_Male_Horizontal_THT
+DIN41612 connector, type M, Horizontal, 3 rows 20 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+60
+60
+Connector_DIN
+DIN41612_M_3x26+2_Female_Vertical_THT
+DIN41612 connector, type M, Vertical, 3 rows 26 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+78
+78
+Connector_DIN
+DIN41612_M_3x26+2_Male_Horizontal_THT
+DIN41612 connector, type M, Horizontal, 3 rows 26 pins wide, https://b2b.harting.com/files/livebooks/en/PRD0200000100063/downloads/livebook.pdf
+DIN 41612 IEC 60603 M
+0
+78
+78
+Connector_DIN
 DIN41612_Q2_2x16_Female_Horizontal_THT
 DIN41612 connector, type Q/2, Horizontal, 2 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 DIN 41612 IEC 60603 Q/2
@@ -10275,6 +10457,804 @@ DSUB-62-HD_Socket_Vertical_P2.41x1.98mm_MountingHoles
 0
 64
 63
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11004_1x04-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 4 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+6
+5
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11005_1x05-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 5 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+7
+6
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11006_1x06-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 6 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+8
+7
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11007_1x07-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 7 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+9
+8
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11008_1x08-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 8 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+10
+9
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11009_1x09-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 9 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+11
+10
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11010_1x10-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 10 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+12
+11
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11011_1x11-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 11 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+13
+12
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11012_1x12-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 12 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+14
+13
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11013_1x13-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 13 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+15
+14
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11014_1x14-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 14 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+16
+15
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11015_1x15-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 15 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+17
+16
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11016_1x16-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 16 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+18
+17
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11017_1x17-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 17 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+19
+18
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11018_1x18-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 18 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+20
+19
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11019_1x19-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 19 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+21
+20
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11020_1x20-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 20 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+22
+21
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11021_1x21-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 21 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+23
+22
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11022_1x22-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 22 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+24
+23
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11023_1x23-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 23 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+25
+24
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11024_1x24-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 24 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+26
+25
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11025_1x25-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 25 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+27
+26
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11026_1x26-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 26 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+28
+27
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11027_1x27-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 27 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+29
+28
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11028_1x28-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 28 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+30
+29
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11029_1x29-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 29 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+31
+30
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11030_1x30-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 30 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+32
+31
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11031_1x31-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 31 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+33
+32
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11032_1x32-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 32 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+34
+33
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11033_1x33-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 33 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+35
+34
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11034_1x34-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 34 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+36
+35
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11035_1x35-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 35 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+37
+36
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11036_1x36-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 36 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+38
+37
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11037_1x37-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 37 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+39
+38
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11038_1x38-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 38 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+40
+39
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11039_1x39-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 39 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+41
+40
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+42
+41
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11041_1x41-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 41 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+43
+42
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11042_1x42-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 42 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+44
+43
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11043_1x43-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 43 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+45
+44
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11044_1x44-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 44 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+46
+45
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11045_1x45-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 45 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+47
+46
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11046_1x46-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 46 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+48
+47
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11047_1x47-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 47 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+49
+48
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11048_1x48-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 48 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+50
+49
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11049_1x49-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 49 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+51
+50
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11050_1x50-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 50 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+52
+51
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11051_1x51-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 51 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+53
+52
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11052_1x52-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 52 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+54
+53
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11053_1x53-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 53 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+55
+54
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11054_1x54-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 54 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+56
+55
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11055_1x55-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 55 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+57
+56
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11056_1x56-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 56 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+58
+57
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11057_1x57-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 57 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+59
+58
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11058_1x58-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 58 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+60
+59
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11059_1x59-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 59 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+61
+60
+Connector_FFC-FPC
+Amphenol_F32Q-1A7x1-11060_1x60-1MP_P0.5mm_Horizontal
+Amphenol F32Q/T FPC connector, 60 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
+F32T
+0
+62
+61
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11004_1x04-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 4 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+6
+5
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11005_1x05-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 5 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+7
+6
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11006_1x06-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 6 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+8
+7
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11007_1x07-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 7 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+9
+8
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11008_1x08-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 8 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+10
+9
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11009_1x09-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 9 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+11
+10
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11010_1x10-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 10 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+12
+11
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11011_1x11-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 11 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+13
+12
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11012_1x12-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 12 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+14
+13
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11013_1x13-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 13 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+15
+14
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11014_1x14-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 14 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+16
+15
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11015_1x15-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 15 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+17
+16
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11016_1x16-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 16 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+18
+17
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11017_1x17-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 17 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+19
+18
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11018_1x18-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 18 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+20
+19
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11019_1x19-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 19 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+21
+20
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11020_1x20-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 20 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+22
+21
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11021_1x21-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 21 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+23
+22
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11022_1x22-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 22 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+24
+23
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11023_1x23-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 23 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+25
+24
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11024_1x24-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 24 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+26
+25
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11025_1x25-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 25 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+27
+26
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11026_1x26-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 26 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+28
+27
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11027_1x27-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 27 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+29
+28
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11028_1x28-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 28 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+30
+29
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11029_1x29-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 29 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+31
+30
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11030_1x30-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 30 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+32
+31
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11031_1x31-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 31 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+33
+32
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11032_1x32-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 32 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+34
+33
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11033_1x33-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 33 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+35
+34
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11034_1x34-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 34 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+36
+35
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11035_1x35-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 35 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+37
+36
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11036_1x36-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 36 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+38
+37
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11037_1x37-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 37 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+39
+38
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11038_1x38-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 38 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+40
+39
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11039_1x39-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 39 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+41
+40
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 40 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+42
+41
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11041_1x41-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 41 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+43
+42
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11042_1x42-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 42 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+44
+43
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11043_1x43-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 43 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+45
+44
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11044_1x44-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 44 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+46
+45
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11045_1x45-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 45 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+47
+46
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11046_1x46-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 46 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+48
+47
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11047_1x47-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 47 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+49
+48
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11048_1x48-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 48 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+50
+49
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11049_1x49-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 49 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+51
+50
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11050_1x50-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 50 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+52
+51
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11051_1x51-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 51 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+53
+52
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11052_1x52-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 52 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+54
+53
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11053_1x53-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 53 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+55
+54
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11054_1x54-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 54 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+56
+55
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11055_1x55-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 55 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+57
+56
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11056_1x56-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 56 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+58
+57
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11057_1x57-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 57 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+59
+58
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11058_1x58-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 58 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+60
+59
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11059_1x59-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 59 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+61
+60
+Connector_FFC-FPC
+Amphenol_F32R-1A7x1-11060_1x60-1MP_P0.5mm_Horizontal
+Amphenol F32R/J FPC connector, 60 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf
+F32J
+0
+62
+61
 Connector_FFC-FPC
 Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal
 Hirose FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
@@ -17086,6 +18066,90 @@ connector JST SFH horizontal
 0
 4
 3
+Connector_JST
+JST_SHD_BM20B-SRDS-A-G-TF_2x10-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 20 Circuits, Header, Vertical, With a Boss (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+22
+21
+Connector_JST
+JST_SHD_BM20B-SRDS-G-TF_2x10-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 20 Circuits, Header, Vertical (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+22
+21
+Connector_JST
+JST_SHD_BM30B-SRDS-A-G-TF_2x15-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 30 Circuits, Header, Vertical, With a Boss (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+32
+31
+Connector_JST
+JST_SHD_BM30B-SRDS-G-TF_2x15-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 30 Circuits, Header, Vertical (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+32
+31
+Connector_JST
+JST_SHD_BM40B-SRDS-A-G-TF_2x20-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 40 Circuits, Header, Vertical, With a Boss (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+42
+41
+Connector_JST
+JST_SHD_BM40B-SRDS-G-TF_2x20-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 40 Circuits, Header, Vertical (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+42
+41
+Connector_JST
+JST_SHD_BM50B-SRDS-A-G-TF_2x25-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 50 Circuits, Header, Vertical, With a Boss (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+52
+51
+Connector_JST
+JST_SHD_BM50B-SRDS-G-TF_2x25-1MP_P1.0mm_Vertical
+JST SHD series connector, 1.0 mm Pitch, 50 Circuits, Header, Vertical (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD vertical
+0
+52
+51
+Connector_JST
+JST_SHD_SM20B-SRDS-G-TF_2x10-1MP_P1.0mm_Horizontal
+JST SHD series connector, 1.0 mm Pitch, 20 Circuits, Header, Horizontal (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD horizontal
+0
+22
+21
+Connector_JST
+JST_SHD_SM30B-SRDS-G-TF_2x15-1MP_P1.0mm_Horizontal
+JST SHD series connector, 1.0 mm Pitch, 30 Circuits, Header, Horizontal (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD horizontal
+0
+32
+31
+Connector_JST
+JST_SHD_SM40B-SRDS-G-TF_2x20-1MP_P1.0mm_Horizontal
+JST SHD series connector, 1.0 mm Pitch, 40 Circuits, Header, Horizontal (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD horizontal
+0
+42
+41
+Connector_JST
+JST_SHD_SM50B-SRDS-G-TF_2x25-1MP_P1.0mm_Horizontal
+JST SHD series connector, 1.0 mm Pitch, 50 Circuits, Header, Horizontal (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)
+connector JST SHD horizontal
+0
+52
+51
 Connector_JST
 JST_SHL_SM02B-SHLS-TF_1x02-1MP_P1.00mm_Horizontal
 JST SHL series connector, SM02B-SHLS-TF (http://www.jst-mfg.com/product/pdf/eng/eSHL.pdf), generated with kicad-footprint-generator
@@ -44820,6 +45884,90 @@ connector Samtec  vertical
 0
 102
 101
+Connector_Samtec
+Samtec_SS4-10-3.00-x-D-K-xR_2x10_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x10 ways, 3.00 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+20
+20
+Connector_Samtec
+Samtec_SS4-10-3.50-x-D-K-xR_2x10_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x10 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+20
+20
+Connector_Samtec
+Samtec_SS4-15-3.00-x-D-K-xR_2x15_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x15 ways, 3.00 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+30
+30
+Connector_Samtec
+Samtec_SS4-15-3.50-x-D-K-xR_2x15_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x15 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+30
+30
+Connector_Samtec
+Samtec_SS4-20-3.00-x-D-K-xR_2x20_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x20 ways, 3.00 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+40
+40
+Connector_Samtec
+Samtec_SS4-20-3.50-x-D-K-xR_2x20_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x20 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+40
+40
+Connector_Samtec
+Samtec_SS4-30-3.00-x-D-K-xR_2x30_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x30 ways, 3.00 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+60
+60
+Connector_Samtec
+Samtec_SS4-30-3.50-x-D-K-xR_2x30_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x30 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+60
+60
+Connector_Samtec
+Samtec_SS4-40-3.00-x-D-K-xR_2x40_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x40 ways, 3.00 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+80
+80
+Connector_Samtec
+Samtec_SS4-40-3.50-x-D-K-xR_2x40_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x40 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+80
+80
+Connector_Samtec
+Samtec_SS4-50-3.00-x-D-K-xR_2x50_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x50 ways, 3.00 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+100
+100
+Connector_Samtec
+Samtec_SS4-50-3.50-x-D-K-xR_2x50_P0.4mm_Socket
+Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x50 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)
+conn samtec board-to-board socket high-speed
+0
+100
+100
 Connector_Samtec_HLE_SMD
 Samtec_HLE-102-02-xxx-DV-BE-LC_2x02_P2.54mm_Horizontal
 Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-102-02-xxx-DV-BE-LC, 2 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator
@@ -54215,6 +55363,13 @@ Power Module uPOL MUN12AD03
 19
 11
 Converter_DCDC
+Converter_DCDC_Hamamatsu_C11204-1_THT
+Hamamatsu C11204-01 bias power supply module, body 19.4x17mm, height 4.7mm, https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/c11204-01_kacc1203e.pdf
+MPPC SiPM bias-supply
+0
+16
+16
+Converter_DCDC
 Converter_DCDC_MeanWell_NID30_THT
 Meanwell DCDC non-isolated converter SIP module, http://www.meanwell.com/webapp/product/search.aspx?prod=nid30
 DCDC non-isolated converter 
@@ -54683,6 +55838,13 @@ DCDC-Converter TRACO TMR4WI THT SIP-8 4W
 0
 7
 7
+Converter_DCDC
+Converter_DCDC_TRACO_TMR10-24xxWIR_48xxWIR_72xxWIR_THT
+DCDC-Converter, TRACO, TMR 10-24xxWIR, TMR 10-48xxWIR, TMR 10-72xxWIR, 10W, Rev. April 29. 2025 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tmr10wir.pdf)
+DCDC-Converter TRACO TMR10WIR THT SIP-8 10W
+0
+8
+8
 Converter_DCDC
 Converter_DCDC_TRACO_TMU3-05xx_12xx_THT
 DCDC-Converter, TRACO, TMU3-05xx, TMU3-12xx, 3W, Rev. November 10. 2023 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tmu3.pdf)
@@ -55387,6 +56549,13 @@ Crystal
 Crystal_SMD_1210-4Pin_1.2x1.0mm
 SMD Crystal SERIES SMD1210/4 https://ecsxtal.com/store/pdf/ECX-1048.pdf, 1.2x1.0mm^2 package
 SMT
+0
+4
+4
+Crystal
+Crystal_SMD_1210-4Pin_1.2x1.0mm_RotB
+SMD1210/4, Crystal, 1.2x1.0mm package, SMD, generated with kicad-footprint-generator make_crystal.py, https://ecsxtal.com/store/pdf/ECX-1048.pdf
+
 0
 4
 4
@@ -65492,6 +66661,13 @@ THT
 4
 2
 Jumper
+Jumper_Harwin_S1621_P10.9mm
+Harwin SMD jumper link, 12.3x2.3mm, 1.8mm height, 10.9mm pad pitch, https://cdn.harwin.com/pdfs/S1621R.pdf
+SMD jumper link
+0
+2
+2
+Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
 net tie solder jumper bridged
@@ -67219,6 +68395,20 @@ LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal,
 LED handsolder
 0
 2
+2
+LED_SMD
+LED_01005_0402Metric
+LED SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+LED
+0
+4
+2
+LED_SMD
+LED_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+LED SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+4
 2
 LED_SMD
 LED_1206_3216Metric
@@ -72079,6 +73269,20 @@ SMD SMT crystal oscillator hand-soldering
 4
 4
 Oscillator
+Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm_RotB
+EuroQuartz XO32, Miniature Crystal Clock Oscillator, 3.2x2.5mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf
+
+0
+4
+4
+Oscillator
+Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm_RotB_HandSoldering
+EuroQuartz XO32, Miniature Crystal Clock Oscillator, 3.2x2.5mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf
+
+0
+4
+4
+Oscillator
 Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm
 Miniature Crystal Clock Oscillator EuroQuartz XO53 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO53.pdf, 5.0x3.2mm^2 package
 SMD SMT crystal oscillator
@@ -75523,6 +76727,13 @@ BGA 96 0.8
 96
 96
 Package_BGA
+NXP_SOT1982-1_VFBGA-98_7x7mm_Layout13x13_P0.5mm
+NXP VFBGA-98 (Case SOT1982-1), 0.28mm pad, 7x7mm, 98 Ball, 13x13 Layout, 0.5mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.nxp.com/docs/en/package-information/SOT1982-1.pdf
+BGA 98 0.5
+0
+98
+98
+Package_BGA
 NXP_SOT2162-1_VFBGA-59_4x4mm_Layout9x9_P0.4mm
 NXP VFBGA-59 (Case SOT2162-1), 0.24mm pad, 4x4mm, 59 Ball, 9x9 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.nxp.com/docs/en/package-information/SOT2162-1.pdf
 BGA 59 0.4
@@ -75787,6 +76998,13 @@ Texas Instruments, DSBGA, 0.9x1.4mm, 6 bump 2x3 (perimeter) array, NSMD pad defi
 Texas Instruments DSBGA BGA YZP R-XBGA-N6
 0
 12
+6
+Package_BGA
+Texas_DSBGA-6_0.76x1.16mm_Layout2x3_P0.4mm
+Texas Instruments YFP0006, DSBGA-6, 0.76x1.16mm, 6 Ball, 2x3 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.ti.com/lit/ds/symlink/ts5a12301e.pdf#page=23
+BGA 6 0.4
+0
+6
 6
 Package_BGA
 Texas_DSBGA-6_0.95x1.488mm_Layout2x3_P0.4mm
@@ -80969,6 +82187,20 @@ Texas instruments QFN
 34
 15
 Package_DFN_QFN
+Texas_DLH0010A_WSON-10-1EP_2.2x2mm_P0.4mm_EP0.9x1.5mm
+Texas DLH0010A WSON, 10 Pin (https://www.ti.com/lit/gpn/BQ25185), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WSON NoLead
+0
+12
+11
+Package_DFN_QFN
+Texas_DLH0010A_WSON-10-1EP_2.2x2mm_P0.4mm_EP0.9x1.5mm_ThermalVias
+Texas DLH0010A WSON, 10 Pin (https://www.ti.com/lit/gpn/BQ25185), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WSON NoLead
+0
+15
+11
+Package_DFN_QFN
 Texas_DRB0008A
 DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf
 DRB0008A
@@ -81319,6 +82551,20 @@ Texas WQFN NoLead
 31
 25
 Package_DFN_QFN
+Texas_RNH0030A_WQFN-30-1EP_2.5x4.5mm_P0.4mm_EP1.2x3.2mm
+Texas RNH0030A WQFN, 30 Pin (https://www.ti.com/lit/ds/symlink/hd3ss3220.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+33
+31
+Package_DFN_QFN
+Texas_RNH0030A_WQFN-30-1EP_2.5x4.5mm_P0.4mm_EP1.2x3.2mm_ThermalVias
+Texas RNH0030A WQFN, 30 Pin (https://www.ti.com/lit/ds/symlink/hd3ss3220.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+40
+31
+Package_DFN_QFN
 Texas_RNN0018A
 Texas Instruments, VQFN-HR RNN0018A (http://www.ti.com/lit/ds/symlink/tps568215.pdf)
 ti vqfn-hr rnn0018a
@@ -81339,6 +82585,20 @@ Texas WQFN NoLead
 0
 55
 31
+Package_DFN_QFN
+Texas_RNQ0040A_WQFN-40-1EP_6x4mm_P0.4mm_EP4.7x2.7mm
+Texas RNQ0040A WQFN, 40 Pin (https://www.ti.com/lit/ds/symlink/tusb1046-dci.pdf#page=45), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+47
+41
+Package_DFN_QFN
+Texas_RNQ0040A_WQFN-40-1EP_6x4mm_P0.4mm_EP4.7x2.7mm_ThermalVias
+Texas RNQ0040A WQFN, 40 Pin (https://www.ti.com/lit/ds/symlink/tusb1046-dci.pdf#page=45), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+60
+41
 Package_DFN_QFN
 Texas_RPU0010A_VQFN-HR-10_2x2mm_P0.5mm
 VQFN-HR, 10 Pin (https://www.ti.com/lit/ds/symlink/tps62912.pdf#page=39)
@@ -81437,6 +82697,20 @@ Texas WQFN NoLead
 0
 31
 17
+Package_DFN_QFN
+Texas_RUK0020B_WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm
+Texas RUK0020B WQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/mspm0c1104.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+Texas_RUK0020B_WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm_ThermalVias
+Texas RUK0020B WQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/mspm0c1104.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+35
+21
 Package_DFN_QFN
 Texas_RUM0016A_WQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm
 Texas RUM0016A WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -82129,6 +83403,20 @@ VQFN, 40 Pin (JEDEC MO-220-K.01, variation VHHE-1, https://www.jedec.org/system/
 VQFN NoLead
 0
 62
+41
+Package_DFN_QFN
+VQFN-40-1EP_6x6mm_P0.5mm_EP3.5x3.5mm
+VQFN, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-40/cp-40-29.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead Analog_CP-40-29
+0
+50
+41
+Package_DFN_QFN
+VQFN-40-1EP_6x6mm_P0.5mm_EP3.5x3.5mm_ThermalVias
+VQFN, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-40/cp-40-29.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead Analog_CP-40-29
+0
+67
 41
 Package_DFN_QFN
 VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm
@@ -83587,6 +84875,48 @@ THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
 24
 24
 Package_DIP
+DIP-26_W15.24mm
+26-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+26
+26
+Package_DIP
+DIP-26_W15.24mm_LongPads
+26-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+26
+26
+Package_DIP
+DIP-26_W15.24mm_SMDSocket_SmallPads
+26-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+26
+26
+Package_DIP
+DIP-26_W15.24mm_Socket
+26-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+26
+26
+Package_DIP
+DIP-26_W15.24mm_Socket_LongPads
+26-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+26
+26
+Package_DIP
+DIP-26_W16.51mm_SMDSocket_LongPads
+26-lead though-hole mounted DIP package, row spacing 16.51mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+26
+26
+Package_DIP
 DIP-28_W7.62mm
 28-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)
 THT DIP DIL PDIP 2.54mm 7.62mm 300mil
@@ -84686,6 +86016,13 @@ lcc smt
 8
 8
 Package_LCC
+MO047AD_PLCC-52_19.1x19.1mm_P1.27mm
+MO047AD PLCC, 52 Pin (JEDEC MO-047 variation AD, https://www.jedec.org/document_search?search_api_views_fulltext=MO-047, https://archive.org/details/bitsavers_signeticsdcsMicroprocessor_53987793/page/n775/mode/1up?view=theater), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+52
+52
+Package_LCC
 PLCC-20
 PLCC, 20 pins, surface mount
 plcc smt
@@ -85386,6 +86723,20 @@ LQFP QFP
 160
 160
 Package_QFP
+LQFP-176-1EP_24x24mm_P0.5mm_EP6.6x6.6mm
+LQFP, 176 Pin (https://www.infineon.com/cms/en/product/packages/PG-TQFP/PG-TQFP-176-801/), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP Infineon-PG-TQFP-176-801
+0
+202
+177
+Package_QFP
+LQFP-176-1EP_24x24mm_P0.5mm_EP6.6x6.6mm_ThermalVias
+LQFP, 176 Pin (https://www.infineon.com/cms/en/product/packages/PG-TQFP/PG-TQFP-176-801/), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP Infineon-PG-TQFP-176-801
+0
+239
+177
+Package_QFP
 LQFP-176_20x20mm_P0.4mm
 LQFP, 176 Pin (https://www.onsemi.com/pub/Collateral/566DB.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP
@@ -85413,6 +86764,13 @@ LQFP QFP
 0
 216
 216
+Package_QFP
+MO112AC1_PQFP-52_10x10mm_P0.65mm
+MO112AC1 PQFP, 52 Pin (JEDEC MO-112 variation AC-1, https://www.jedec.org/document_search?search_api_views_fulltext=MO-112, https://www.analog.com/media/en/package-pcb-resources/package/32717196300961s_52_2.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP MQFP S-52-2 high-standoff
+0
+52
+52
 Package_QFP
 MQFP-44_10x10mm_P0.8mm
 MQFP, 44 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7722.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -85552,6 +86910,13 @@ TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm
 QFP 0.5
 0
 53
+49
+Package_QFP
+TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_ThermalVias
+TQFP, 48 Pin (JEDEC MS-026 variation ABC, 1.00mm body thickness, custom Exposed Pad from Microchip and Analog Devices, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BZ.pdf#page=664, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_48_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP SV-48-4
+0
+63
 49
 Package_QFP
 TQFP-48-1EP_7x7mm_P0.5mm_EP4.11x4.11mm
@@ -88473,12 +89838,26 @@ Texas VSSOP SO
 23
 9
 Package_SO
+Texas_DGS0020A_TSSOP-20_3x5.1mm_P0.5mm
+Texas DGS0020A TSSOP, 20 Pin (https://www.ti.com/lit/ds/symlink/mspm0c1104.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas TSSOP SO
+0
+20
+20
+Package_SO
 Texas_DKD0036A_HSSOP-36_11x15.9mm_P0.65mm_TopEP5.85x12.65mm
 Texas DKD0036A HSSOP, 36 Pin (https://www.ti.com/lit/ml/pptd185d/pptd185d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 Texas HSSOP SO PowerPAD
 0
 36
 36
+Package_SO
+Texas_DYY0016A_TSOT-23-16_2x4.2mm_P0.5mm
+Texas DYY0016A TSSOP, 16 Pin (https://www.ti.com/lit/ds/symlink/tmux1574.pdf#page=42), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas TSSOP SO SOT-23-THIN
+0
+16
+16
 Package_SO
 Texas_DYY0016A_TSOT-23-16_4.2x2.0mm_P0.5mm
 TSSOP, 16 Pin (https://www.ti.com/lit/ds/symlink/tmux1574.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -88718,6 +90097,20 @@ tison
 34
 8
 Package_SON
+MPS_USON-6_1.2x1.6mm_P0.5mm
+MPS  USON, 6 Pin (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2151/document_id/4678/#page=21), generated with kicad-footprint-generator ipc_noLead_generator.py
+MPS USON NoLead
+0
+6
+6
+Package_SON
+MPS_VSON-6_1x1.5mm_P0.5mm
+MPS  VSON, 6 Pin (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP21148/document_id/1006/#page=14), generated with kicad-footprint-generator ipc_noLead_generator.py
+MPS VSON NoLead
+0
+6
+6
+Package_SON
 MicroCrystal_C7_SON-8_1.5x3.2mm_P0.9mm
 MicroCrystal C7 SON, 8 Pin (https://www.microcrystal.com/fileadmin/Media/Products/RTC/App.Manual/RV-3028-C7_App-Manual.pdf#page=107), generated with kicad-footprint-generator ipc_noLead_generator.py
 MicroCrystal SON NoLead MicroCrystal-RV3028-C7
@@ -88850,6 +90243,20 @@ Texas_DSC0010J_ThermalVias
 0
 39
 11
+Package_SON
+Texas_DSG0008A_WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm
+Texas DSG0008A WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/mspm0c1104.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WSON NoLead
+0
+11
+9
+Package_SON
+Texas_DSG0008A_WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias
+Texas DSG0008A WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/mspm0c1104.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WSON NoLead
+0
+14
+9
 Package_SON
 Texas_PWSON-N6
 Plastic Small Outline No-Lead http://www.ti.com/lit/ml/mpds176e/mpds176e.pdf
@@ -90257,6 +91664,13 @@ TSOT-23 Hand-soldering
 0
 3
 3
+Package_TO_SOT_SMD
+Texas_DDF0008A_SOT-8_1.6x2.9mm_P0.65mm
+Texas DDF0008A SOT, 8 Pin (https://www.ti.com/lit/ds/symlink/mspm0c1104.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas SOT TO_SOT_SMD
+0
+8
+8
 Package_TO_SOT_SMD
 Texas_DRT-3
 Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
