@@ -4830,28 +4830,6 @@
 			)
 		)
 	)
-	(global_label "MISO_R"
-		(shape input)
-		(at 170.18 39.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0e7cf7bb-bf46-4e69-be72-7756e5cf8a70")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.361 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "KeyINT_R"
 		(shape bidirectional)
 		(at 210.82 54.61 0)
@@ -4980,28 +4958,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CS_R"
-		(shape output)
-		(at 170.18 44.45 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "24fdee91-d46b-4cef-acec-280614ffb990")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 162.4777 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -5217,28 +5173,6 @@
 		(uuid "550903af-4a61-4d43-b683-b030b2e1f442")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 172.9778 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCLK_R"
-		(shape output)
-		(at 170.18 36.83 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "557de1b2-c883-4ea9-bc42-bdfdc222cf3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.1796 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5732,28 +5666,6 @@
 			)
 		)
 	)
-	(global_label "EXT_VCC_R"
-		(shape input)
-		(at 254 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9f9bbd00-8ece-425f-9444-dec57e61f029")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 241.0968 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Key5_R"
 		(shape input)
 		(at 212.09 49.53 0)
@@ -5816,28 +5728,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MISO_R"
-		(shape output)
-		(at 254 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "aee5709d-76d0-421c-9807-5b6b78b5562a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.181 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -6106,28 +5996,6 @@
 			)
 		)
 	)
-	(global_label "CS_R"
-		(shape input)
-		(at 254 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c412e428-46c6-44c8-9cee-58a042f90e7c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.2977 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SCL_R"
 		(shape bidirectional)
 		(at 182.88 80.01 180)
@@ -6238,28 +6106,6 @@
 			)
 		)
 	)
-	(global_label "MOSI_R"
-		(shape output)
-		(at 170.18 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d23aa887-e356-4b86-aed5-464e7c69fc92")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.361 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Ro_B_L"
 		(shape input)
 		(at 29.21 53.34 180)
@@ -6295,28 +6141,6 @@
 		(uuid "d4bbb3fc-74c2-4297-bc78-6937bf1f15da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 19.5497 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCLK_R"
-		(shape input)
-		(at 254 76.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d931bc8b-6730-40c1-900f-bafd84f3b622")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.9996 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6537,28 +6361,6 @@
 		(uuid "fac0ab8e-f2ed-4dff-ac94-f74590ab992c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 21.7496 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOSI_R"
-		(shape input)
-		(at 254 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fdbf4a05-af31-4cbc-934b-e314e6fa9d0e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.181 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12169,88 +11971,6 @@
 			(project ""
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
 					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x06")
-		(at 259.08 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7c87f888-010d-4233-ad1d-4145ceca4d50")
-		(property "Reference" "J10"
-			(at 261.62 81.2799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x06"
-			(at 261.62 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
-			(at 259.08 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 259.08 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f3998b7c-41f3-4d68-bc62-42ed7c541e3b")
-		)
-		(pin "3"
-			(uuid "267474be-2b05-4c1d-b8cc-f7b3e992214e")
-		)
-		(pin "5"
-			(uuid "b2061068-a860-400e-97d2-f7ca7c09c6ec")
-		)
-		(pin "4"
-			(uuid "f1f6def7-5a63-4257-a685-f5547adf323c")
-		)
-		(pin "1"
-			(uuid "d625b467-a7f0-4c94-a313-c52ffe987388")
-		)
-		(pin "6"
-			(uuid "3c6c3ae3-64b0-4a9e-bd51-705aa4c0d5ba")
-		)
-		(instances
-			(project "ErgoNexus"
-				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -18745,72 +18465,6 @@
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
 					(reference "D18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 254 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ff3fe4d3-6bdd-4ef9-b32b-ade35175d72b")
-		(property "Reference" "#PWR024"
-			(at 254 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND_R"
-			(at 254 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 254 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1801a041-b5f1-4480-92f3-533cfc3ad03c")
-		)
-		(instances
-			(project "ErgoNexus"
-				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
