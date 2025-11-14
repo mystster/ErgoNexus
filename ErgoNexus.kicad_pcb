@@ -903,7 +903,7 @@
 		(at 252.085 187.979666 -118)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D27"
+		(property "Reference" "D41_R"
 			(at 0 -1.630001 62)
 			(layer "B.SilkS")
 			(uuid "3381bbb4-10b4-4a95-9cd5-e24e58782cf4")
@@ -1379,7 +1379,7 @@
 		(at 262.585 101.979666 -172.88)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D28"
+		(property "Reference" "D11_R"
 			(at 0 -1.63 7.12)
 			(layer "B.SilkS")
 			(uuid "5757e85f-e141-4b16-bca4-0f7438efbc8e")
@@ -2086,7 +2086,7 @@
 		(layer "F.Cu")
 		(uuid "06cdede9-eff3-4a28-bad3-333cd6410c34")
 		(at 280.168077 82.116978 5)
-		(property "Reference" "RC2-5"
+		(property "Reference" "K12_R"
 			(at 0 4 5)
 			(layer "B.SilkS")
 			(uuid "6180ed36-1462-449a-8e02-660fd81b705a")
@@ -2578,7 +2578,7 @@
 		(at 308.285 121.579666 -161)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D36"
+		(property "Reference" "D33_R"
 			(at 0 -1.63 19)
 			(layer "B.SilkS")
 			(uuid "c822b4c7-6220-43a3-b85c-2cbb952a2fcc")
@@ -2796,7 +2796,7 @@
 		(at 296.985 157.579666 178)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D40"
+		(property "Reference" "D44_R"
 			(at 0 -1.63 358)
 			(layer "B.SilkS")
 			(uuid "7a3a0b0d-fec0-4487-b030-bcb7d4f026fe")
@@ -3519,7 +3519,7 @@
 		(layer "F.Cu")
 		(uuid "0bc73c9d-c282-4863-9cda-0eb6bf8739ed")
 		(at 257.047778 166.62998 47)
-		(property "Reference" "RC1-8"
+		(property "Reference" "K42_R"
 			(at 0 4 47)
 			(layer "B.SilkS")
 			(uuid "2221b09a-187c-4bce-aa40-f1f6dac183ee")
@@ -4254,7 +4254,7 @@
 		(at 359.785 90.479666 178)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D45"
+		(property "Reference" "D26_R"
 			(at 0 -1.63 178)
 			(layer "B.SilkS")
 			(uuid "ff416760-e758-4b4e-805c-cfd9a9d8f3da")
@@ -4471,7 +4471,7 @@
 		(layer "F.Cu")
 		(uuid "14dea507-8c9e-47bb-9544-93bc70ae1823")
 		(at 275.16882 153.654306 25)
-		(property "Reference" "RC2-8"
+		(property "Reference" "K43_R"
 			(at 0 4 25)
 			(layer "B.SilkS")
 			(uuid "f55b1e12-e64b-426e-ac0a-f3b1a0d080dd")
@@ -5180,7 +5180,7 @@
 		(layer "F.Cu")
 		(uuid "1dea27d1-5c9c-4828-8678-ed7b085a86fa")
 		(at 288.353025 121.552106 19)
-		(property "Reference" "RC1-7"
+		(property "Reference" "K32_R"
 			(at 0 4 19)
 			(layer "B.SilkS")
 			(uuid "845a20af-9fc3-411c-b1f7-fc7ae2b396ad")
@@ -6262,7 +6262,7 @@
 		(at 267.285 121.579666 -166)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D25"
+		(property "Reference" "D21_R"
 			(at 0 -1.63 14)
 			(layer "B.SilkS")
 			(uuid "f83d94dc-12c3-4d10-8e21-880b24cfa281")
@@ -6479,7 +6479,7 @@
 		(layer "F.Cu")
 		(uuid "24fdab3a-1d72-4944-8d3d-cf3f3545f08b")
 		(at 262.007187 93.647539 7.12)
-		(property "Reference" "RC1-5"
+		(property "Reference" "K11_R"
 			(at 0 4 7.12)
 			(layer "B.SilkS")
 			(uuid "a8bb8d63-8306-486f-b01b-310cebf684ad")
@@ -8114,7 +8114,7 @@
 		(layer "F.Cu")
 		(uuid "2b0ac6ad-f6ba-4a0e-9949-ef03f39cb9e0")
 		(at 327.900801 117.25779 21.5)
-		(property "Reference" "RC4-7"
+		(property "Reference" "K34_R"
 			(at 0 4 21.5)
 			(layer "B.SilkS")
 			(uuid "9b6ee46d-12de-49a2-a21d-2e81ee0e5430")
@@ -8824,7 +8824,7 @@
 		(at 358.363456 135.401211 -152.6)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D43"
+		(property "Reference" "D45_R"
 			(at 0 -1.63 27.4)
 			(layer "B.SilkS")
 			(uuid "62b91c42-019e-4773-bf12-2d780ea11093")
@@ -9531,7 +9531,7 @@
 		(layer "F.Cu")
 		(uuid "31a6338f-d02b-494c-b5fb-38941675eead")
 		(at 360.319035 82.17142 -2)
-		(property "Reference" "RC6-5"
+		(property "Reference" "K26_R"
 			(at 0.238961 4.522996 178)
 			(layer "B.SilkS")
 			(uuid "a1e55404-9d71-459e-8e2d-7ca1afd8d11e")
@@ -11220,7 +11220,7 @@
 		(layer "F.Cu")
 		(uuid "3d362c0c-551f-4f3d-a382-586496d7080c")
 		(at 340.633874 89.379195 6)
-		(property "Reference" "RC5-5"
+		(property "Reference" "K25_R"
 			(at 0 4 6)
 			(layer "B.SilkS")
 			(uuid "a5061967-7e67-45dc-b6d1-0e66181b933e")
@@ -12419,7 +12419,7 @@
 		(layer "F.Cu")
 		(uuid "3f3d4012-fd45-4361-9c97-18f6afa66194")
 		(at 365.304971 103.44885 18.2)
-		(property "Reference" "RC6-6"
+		(property "Reference" "K36_R"
 			(at 0 4 18.2)
 			(layer "B.SilkS")
 			(uuid "e1d7157d-1d65-4cb8-a653-7efc51886597")
@@ -12911,8 +12911,8 @@
 		(at 330.681301 124.983365 -158.5)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D39"
-			(at -1.076929 1.922495 21.5)
+		(property "Reference" "D34_R"
+			(at 0.023354 -1.706483 21.5)
 			(layer "B.SilkS")
 			(uuid "aa082751-fb01-45d9-bb37-488d8a00a1f1")
 			(effects
@@ -14055,7 +14055,7 @@
 		(at 341.285 97.479666 -174)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D41"
+		(property "Reference" "D25_R"
 			(at 0 -1.63 6)
 			(layer "B.SilkS")
 			(uuid "e1e1727c-874a-4ab5-bbf5-4d2c68a02112")
@@ -16886,7 +16886,7 @@
 		(at 278.170123 161.394544 -155)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D33"
+		(property "Reference" "D43_R"
 			(at 0 -1.63 25)
 			(layer "B.SilkS")
 			(uuid "3053199f-39f2-4b1d-92d6-fa39e0b9a97f")
@@ -17103,7 +17103,7 @@
 		(layer "F.Cu")
 		(uuid "5a0be21e-43f6-42bf-9293-295f04f3649b")
 		(at 373.828438 122.335777 28.75)
-		(property "Reference" "RC6-7"
+		(property "Reference" "K46_R"
 			(at 0 4 28.75)
 			(layer "B.SilkS")
 			(uuid "7b3acdb3-d3de-4382-a822-3decca854699")
@@ -17813,7 +17813,7 @@
 		(at 302.185 101.879666 -170)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D35"
+		(property "Reference" "D23_R"
 			(at 0 -1.63 10)
 			(layer "B.SilkS")
 			(uuid "a66b611c-d164-4583-baa4-a4c20ca1577f")
@@ -20359,7 +20359,7 @@
 		(layer "F.Cu")
 		(uuid "627d0cc7-fe20-4a6f-9b0c-1631bf239c01")
 		(at 355.008317 128.044207 27.4)
-		(property "Reference" "RC5-7"
+		(property "Reference" "K45_R"
 			(at 0 4 27.4)
 			(layer "B.SilkS")
 			(uuid "e4076bd6-dca4-475f-9124-d46a202fe961")
@@ -22291,7 +22291,7 @@
 		(layer "F.Cu")
 		(uuid "6d4f7956-ba8f-4c06-bc3d-b7dc3eb21a73")
 		(at 346.164875 109.235615 15.9)
-		(property "Reference" "RC5-6"
+		(property "Reference" "K35_R"
 			(at 0 4 15.9)
 			(layer "B.SilkS")
 			(uuid "337f6e73-0dc5-463d-8ca8-9feb6b3ae52f")
@@ -23194,7 +23194,7 @@
 		(layer "F.Cu")
 		(uuid "79efd558-a146-4e6b-a681-624fa607eca6")
 		(at 321.784402 97.810765 13)
-		(property "Reference" "RC4-6"
+		(property "Reference" "K24_R"
 			(at 0 4 13)
 			(layer "B.SilkS")
 			(uuid "b1d39943-bab9-4aa7-a143-016b5c8fe0b3")
@@ -23686,7 +23686,7 @@
 		(at 262.440637 172.624029 -133)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D30"
+		(property "Reference" "D42_R"
 			(at -0.000001 -1.63 47)
 			(layer "B.SilkS")
 			(uuid "6f08046e-6453-4a9f-8e75-0a3b509cfa55")
@@ -26758,7 +26758,7 @@
 		(at 299.285 82.179666 -175.5)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D34"
+		(property "Reference" "D13_R"
 			(at 0 -1.63 4.5)
 			(layer "B.SilkS")
 			(uuid "bffea7bf-8c85-4699-8d67-0797a2291708")
@@ -27466,7 +27466,7 @@
 		(at 323.285 105.779666 -167)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D38"
+		(property "Reference" "D24_R"
 			(at 0 -1.63 13)
 			(layer "B.SilkS")
 			(uuid "55cd75eb-af06-4e16-8ed3-1982a1137ddd")
@@ -29099,7 +29099,7 @@
 		(layer "F.Cu")
 		(uuid "a4f047d0-21ea-4a07-8ae3-8e0cddd2fe85")
 		(at 306.053025 113.552106 19)
-		(property "Reference" "RC3-7"
+		(property "Reference" "K33_R"
 			(at 0 4 19)
 			(layer "B.SilkS")
 			(uuid "3298827e-6ce0-4e80-8e40-e435f07a9413")
@@ -30026,7 +30026,7 @@
 		(layer "F.Cu")
 		(uuid "a5c77689-0f0a-47cb-b7f4-9bd92c62d230")
 		(at 283.083157 101.993178 11.4)
-		(property "Reference" "RC2-6"
+		(property "Reference" "K22_R"
 			(at 0 4 11.4)
 			(layer "B.SilkS")
 			(uuid "f85c0fb8-1f26-4ecb-a1bb-8673f614db34")
@@ -30518,7 +30518,7 @@
 		(at 319.685 86.179666 -174)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D37"
+		(property "Reference" "D14_R"
 			(at 0 -1.63 6)
 			(layer "B.SilkS")
 			(uuid "9c957a68-8843-47f2-b205-5be7daac51e9")
@@ -32370,7 +32370,7 @@
 		(at 347.985 117.279666 -164.1)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D42"
+		(property "Reference" "D35_R"
 			(at -0.000001 -1.63 15.9)
 			(layer "B.SilkS")
 			(uuid "e8b83616-8af1-412b-95d4-43bf053176de")
@@ -32587,7 +32587,7 @@
 		(layer "F.Cu")
 		(uuid "bacf87ad-6031-43b3-be85-9b6be3dc3656")
 		(at 301.093671 93.616608 10)
-		(property "Reference" "RC3-6"
+		(property "Reference" "K23_R"
 			(at 0 4 10)
 			(layer "B.SilkS")
 			(uuid "b90a52b4-9fcc-4269-99e1-3087449e7c4c")
@@ -33229,7 +33229,7 @@
 		(layer "F.Cu")
 		(uuid "bc639dda-dc1e-4dd0-8377-2c38f30e8737")
 		(at 383.929905 96.95811 22)
-		(property "Reference" "RC5-8"
+		(property "Reference" "K37_R"
 			(at 0 3.999999 22)
 			(layer "B.SilkS")
 			(uuid "d2f4e179-239c-41d8-8a72-613b9b081a06")
@@ -34353,8 +34353,8 @@
 		(at 367.585 111.479666 -161.8)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D46"
-			(at 0 -1.63 18.2)
+		(property "Reference" "D36_R"
+			(at 0 -1.63 18.199)
 			(layer "B.SilkS")
 			(uuid "69f26c88-f287-4954-a0e9-d241ee4ca8d1")
 			(effects
@@ -34570,7 +34570,7 @@
 		(layer "F.Cu")
 		(uuid "c8d8f10f-741b-470f-9a9c-0846bdaf9eda")
 		(at 297.700241 149.285069 -2)
-		(property "Reference" "RC4-8"
+		(property "Reference" "K44_R"
 			(at 0 4 178)
 			(layer "B.SilkS")
 			(uuid "e5f9f613-9c97-4634-8e4b-94b05437f7e9")
@@ -35062,7 +35062,7 @@
 		(at 274.285 140.479666 -159)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D26"
+		(property "Reference" "D31_R"
 			(at 0 -1.63 21)
 			(layer "B.SilkS")
 			(uuid "8612f1a4-59ce-42f7-87ed-8923c02c12a8")
@@ -35497,7 +35497,7 @@
 		(layer "F.Cu")
 		(uuid "cb2c8cce-f933-4b68-b0d1-2a780e86196a")
 		(at 265.847092 113.420359 14)
-		(property "Reference" "RC0-6"
+		(property "Reference" "K21_R"
 			(at 0 4 14)
 			(layer "B.SilkS")
 			(uuid "3eaacb22-e589-478d-9fc4-3abe45e2a816")
@@ -36696,7 +36696,7 @@
 		(layer "F.Cu")
 		(uuid "cf8e9e3f-bd47-4086-8bb9-996f60901694")
 		(at 244.677541 184.113216 62)
-		(property "Reference" "RC0-8"
+		(property "Reference" "K41_R"
 			(at 0 4 62)
 			(layer "B.SilkS")
 			(uuid "97f1cabd-3a38-4f0c-89f6-5465bf280a1b")
@@ -37187,7 +37187,7 @@
 		(layer "F.Cu")
 		(uuid "d3dcc043-4b18-47aa-9ac8-80ac5807b43c")
 		(at 318.633874 77.879195 6)
-		(property "Reference" "RC4-5"
+		(property "Reference" "K14_R"
 			(at 0 4 6)
 			(layer "B.SilkS")
 			(uuid "d746b151-6067-496a-b7f2-5a6de93b0b81")
@@ -38169,7 +38169,7 @@
 		(at 386.3796 104.885067 -158)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D44"
+		(property "Reference" "D37_R"
 			(at 0 -1.63 22)
 			(layer "B.SilkS")
 			(uuid "59cafc69-ff17-44f9-afe0-0ee2d1782e51")
@@ -39041,7 +39041,7 @@
 		(at 290.685 129.479666 -161)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D29"
+		(property "Reference" "D32_R"
 			(at 0 -1.63 19)
 			(layer "B.SilkS")
 			(uuid "6c9286e7-340a-4ee2-b296-9ac9f7ada906")
@@ -39967,7 +39967,7 @@
 		(at 284.585 110.079666 -168.6)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D32"
+		(property "Reference" "D22_R"
 			(at 0 -1.63 11.4)
 			(layer "B.SilkS")
 			(uuid "6796b04a-cb2f-4db1-81ab-64d22723dac4")
@@ -40893,7 +40893,7 @@
 		(at 377.660068 129.604598 -151.25)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D47"
+		(property "Reference" "D46_R"
 			(at 0 -1.63 28.75)
 			(layer "B.SilkS")
 			(uuid "3ffd4ba4-a7eb-47bb-9457-e6ec68a7674e")
@@ -41110,7 +41110,7 @@
 		(layer "F.Cu")
 		(uuid "f2ab3743-662b-45d1-bdc8-5baf90d82a90")
 		(at 271.871544 132.657198 21)
-		(property "Reference" "RC0-7"
+		(property "Reference" "K31_R"
 			(at 0 4 21)
 			(layer "B.SilkS")
 			(uuid "80f85adf-2a7d-4a82-baab-bc26fd8bbdc9")
@@ -41820,7 +41820,7 @@
 		(at 280.685 89.979666 -175)
 		(descr "Resitance 3 pas")
 		(tags "R")
-		(property "Reference" "D31"
+		(property "Reference" "D12_R"
 			(at 0 -1.63 5)
 			(layer "B.SilkS")
 			(uuid "77fa803b-8461-4686-95a5-badad26946fe")
@@ -42569,7 +42569,7 @@
 		(layer "F.Cu")
 		(uuid "ff1dc5bb-1c6e-41bf-8a6c-e1542dd7aa66")
 		(at 298.935064 73.74389 4.5)
-		(property "Reference" "RC3-5"
+		(property "Reference" "K13_R"
 			(at 0.000001 4 4.5)
 			(layer "B.SilkS")
 			(uuid "4ef2d166-ee6f-47a4-8b09-1ac816d5f80e")
@@ -42875,8 +42875,8 @@
 			(uuid "686173d7-9abc-4f29-8d50-2da7907d44c7")
 		)
 		(fp_line
-			(start -9.524997 -9.525)
-			(end 9.525 -9.524997)
+			(start -9.524996 -9.525)
+			(end 9.525 -9.524996)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -42885,8 +42885,8 @@
 			(uuid "bb47fadb-973f-43c8-8a6a-d25276534655")
 		)
 		(fp_line
-			(start -9.525 9.524997)
-			(end -9.524997 -9.525)
+			(start -9.525 9.524996)
+			(end -9.524996 -9.525)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -42975,8 +42975,8 @@
 			(uuid "a888f8d9-d4ae-46d0-a6e8-dd06b59c488f")
 		)
 		(fp_line
-			(start 9.525 -9.524997)
-			(end 9.524997 9.525)
+			(start 9.525 -9.524996)
+			(end 9.524996 9.525)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -42985,8 +42985,8 @@
 			(uuid "108eb795-7901-422c-ab75-c610871c3d78")
 		)
 		(fp_line
-			(start 9.524997 9.525)
-			(end -9.525 9.524997)
+			(start 9.524996 9.525)
+			(end -9.525 9.524996)
 			(stroke
 				(width 0.15)
 				(type solid)
