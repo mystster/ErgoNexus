@@ -2533,12 +2533,44 @@
 		(uuid "fff8f663-dd74-40e5-8afc-7ea5545fb262")
 	)
 	(no_connect
+		(at 170.18 44.45)
+		(uuid "19f13723-be9c-4bfa-9a5c-d8656568b6af")
+	)
+	(no_connect
+		(at 29.21 38.1)
+		(uuid "3f10c165-e29f-4d39-bfcd-121d3ea0dd75")
+	)
+	(no_connect
+		(at 29.21 35.56)
+		(uuid "65418bef-9bed-4e66-abc2-ac9e6c8beb79")
+	)
+	(no_connect
+		(at 170.18 39.37)
+		(uuid "a94ea8e8-b9d7-4d3c-8739-fb62459f9321")
+	)
+	(no_connect
+		(at 170.18 36.83)
+		(uuid "b340dec4-f27f-4b47-bc97-ab0c944ead1f")
+	)
+	(no_connect
+		(at 29.21 40.64)
+		(uuid "c72fb821-d331-42a8-83f4-6e5a934ae531")
+	)
+	(no_connect
 		(at 170.18 46.99)
 		(uuid "cfd5c065-5106-4782-8004-7b8af6fb22c8")
 	)
 	(no_connect
+		(at 29.21 43.18)
+		(uuid "e1fcdd83-fc98-454e-8c47-6e6cfea98dd4")
+	)
+	(no_connect
 		(at 29.21 45.72)
 		(uuid "e284cb3a-a3b1-4d57-9b91-1268a7346d05")
+	)
+	(no_connect
+		(at 170.18 41.91)
+		(uuid "fe49356d-da3b-43af-b359-eea37958798b")
 	)
 	(wire
 		(pts
@@ -5783,7 +5815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04589030-56f5-4c22-8d7d-8f2af283087d")
-		(property "Reference" "D31_L"
+		(property "Reference" "D_L_31"
 			(at 16.51 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -5857,7 +5889,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D31_L")
+					(reference "D_L_31")
 					(unit 1)
 				)
 			)
@@ -5873,7 +5905,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "056165ab-df49-4e6a-bb07-bbc2d0f51c50")
-		(property "Reference" "K45_L"
+		(property "Reference" "K_L_45"
 			(at 95.25 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -5927,7 +5959,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K45_L")
+					(reference "K_L_45")
 					(unit 1)
 				)
 			)
@@ -5944,7 +5976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05e00a14-56fc-4a3b-9586-edc1741b6011")
-		(property "Reference" "D23_R"
+		(property "Reference" "D_R_23"
 			(at 187.96 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -6018,7 +6050,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D23_R")
+					(reference "D_R_23")
 					(unit 1)
 				)
 			)
@@ -6034,7 +6066,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "072c7d49-bd5f-4de7-af30-18982151b27e")
-		(property "Reference" "K14_L"
+		(property "Reference" "K_L_14"
 			(at 77.47 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6088,7 +6120,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K14_L")
+					(reference "K_L_14")
 					(unit 1)
 				)
 			)
@@ -6251,7 +6283,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bab2557-fcf8-4795-b9ea-0ecf66ca5cca")
-		(property "Reference" "D14_L"
+		(property "Reference" "D_L_14"
 			(at 69.85 116.205 90)
 			(do_not_autoplace yes)
 			(effects
@@ -6325,7 +6357,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D14_L")
+					(reference "D_L_14")
 					(unit 1)
 				)
 			)
@@ -6341,7 +6373,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f389a9c-5167-4e44-bab3-3a465116dcf7")
-		(property "Reference" "K35_R"
+		(property "Reference" "K_R_35"
 			(at 231.14 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6395,7 +6427,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K35_R")
+					(reference "K_R_35")
 					(unit 1)
 				)
 			)
@@ -6412,7 +6444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "157af72d-de41-4cfb-bf26-b46960cd55cf")
-		(property "Reference" "D36_R"
+		(property "Reference" "D_R_36"
 			(at 241.3 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -6486,7 +6518,98 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D36_R")
+					(reference "D_R_36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 19.05 116.84 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1580a1ce-b268-4297-8b2f-73e613e1d5d2")
+		(property "Reference" "D_L_11"
+			(at 16.51 116.205 90)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 16.51 118.745 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 19.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 19.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 19.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 19.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 19.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9e02b22-eac7-463e-adb9-869f933bb692")
+		)
+		(pin "2"
+			(uuid "ec88daea-64f2-4d8a-9c44-d6a49779f251")
+		)
+		(instances
+			(project "ErgoNexus"
+				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
+					(reference "D_L_11")
 					(unit 1)
 				)
 			)
@@ -6502,7 +6625,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1731bdfa-615c-4fc3-a36c-4c05ea3b6641")
-		(property "Reference" "K11_R"
+		(property "Reference" "K_R_11"
 			(at 160.02 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6556,7 +6679,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K11_R")
+					(reference "K_R_11")
 					(unit 1)
 				)
 			)
@@ -6638,7 +6761,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1bbb374f-5de1-4054-aa0c-f1b123349ffb")
-		(property "Reference" "K32_R"
+		(property "Reference" "K_R_32"
 			(at 177.8 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6692,7 +6815,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K32_R")
+					(reference "K_R_32")
 					(unit 1)
 				)
 			)
@@ -6709,7 +6832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21ea28bb-873d-473e-81a0-da9915c6f1f6")
-		(property "Reference" "D22_R"
+		(property "Reference" "D_R_22"
 			(at 170.18 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -6783,7 +6906,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D22_R")
+					(reference "D_R_22")
 					(unit 1)
 				)
 			)
@@ -6799,7 +6922,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "236616e2-0e1e-4cb3-8cc2-a13d5eba1fc5")
-		(property "Reference" "K26_R"
+		(property "Reference" "K_R_26"
 			(at 248.92 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6853,7 +6976,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K26_R")
+					(reference "K_R_26")
 					(unit 1)
 				)
 			)
@@ -6869,7 +6992,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2463f865-d7f3-47a4-b9bf-bac5a532153b")
-		(property "Reference" "K21_L"
+		(property "Reference" "K_L_21"
 			(at 24.13 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6923,7 +7046,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K21_L")
+					(reference "K_L_21")
 					(unit 1)
 				)
 			)
@@ -6940,7 +7063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2506ec58-1aaf-46b0-85db-7ae5bde900a3")
-		(property "Reference" "D33_L"
+		(property "Reference" "D_L_33"
 			(at 52.07 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -7014,7 +7137,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D33_L")
+					(reference "D_L_33")
 					(unit 1)
 				)
 			)
@@ -7031,7 +7154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "265fb21f-0cb5-40e4-b1d7-ff89179e3cce")
-		(property "Reference" "D46_L"
+		(property "Reference" "D_L_46"
 			(at 105.41 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -7105,7 +7228,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D46_L")
+					(reference "D_L_46")
 					(unit 1)
 				)
 			)
@@ -7340,7 +7463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2950a5d5-298b-4455-ab1d-aa0b18c9ecab")
-		(property "Reference" "D22_L"
+		(property "Reference" "D_L_22"
 			(at 34.29 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -7414,7 +7537,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D22_L")
+					(reference "D_L_22")
 					(unit 1)
 				)
 			)
@@ -7431,7 +7554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a5d9a28-9d71-4a30-b0a8-0765eb6ab3c8")
-		(property "Reference" "D25_R"
+		(property "Reference" "D_R_25"
 			(at 223.52 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -7505,7 +7628,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D25_R")
+					(reference "D_R_25")
 					(unit 1)
 				)
 			)
@@ -7521,7 +7644,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3084552f-4718-4bf2-b1b7-ecadc922c3e5")
-		(property "Reference" "K43_L"
+		(property "Reference" "K_L_43"
 			(at 59.69 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7575,7 +7698,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K43_L")
+					(reference "K_L_43")
 					(unit 1)
 				)
 			)
@@ -7657,7 +7780,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "317d6b96-94ef-4706-9f9f-c013507b7688")
-		(property "Reference" "K33_L"
+		(property "Reference" "K_L_33"
 			(at 59.69 136.652 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7711,7 +7834,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K33_L")
+					(reference "K_L_33")
 					(unit 1)
 				)
 			)
@@ -7727,7 +7850,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3405218b-924d-440b-a3ed-69d99aecf7a4")
-		(property "Reference" "K12_R"
+		(property "Reference" "K_R_12"
 			(at 177.8 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7781,7 +7904,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K12_R")
+					(reference "K_R_12")
 					(unit 1)
 				)
 			)
@@ -7873,7 +7996,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35888452-a8a4-4492-9add-a054b4a94869")
-		(property "Reference" "K34_R"
+		(property "Reference" "K_R_34"
 			(at 213.36 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7927,7 +8050,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K34_R")
+					(reference "K_R_34")
 					(unit 1)
 				)
 			)
@@ -8010,7 +8133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "453f2b19-4680-4db1-bf4b-57a53198a893")
-		(property "Reference" "D42_L"
+		(property "Reference" "D_L_42"
 			(at 34.29 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -8084,7 +8207,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D42_L")
+					(reference "D_L_42")
 					(unit 1)
 				)
 			)
@@ -8167,7 +8290,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "486da7d3-f3f9-4a08-b037-e5c5dcdf5599")
-		(property "Reference" "D23_L"
+		(property "Reference" "D_L_23"
 			(at 52.07 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -8241,7 +8364,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D23_L")
+					(reference "D_L_23")
 					(unit 1)
 				)
 			)
@@ -8323,7 +8446,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b8ccd4b-a53e-4116-bb7a-3bdba5456a9b")
-		(property "Reference" "K22_R"
+		(property "Reference" "K_R_22"
 			(at 177.8 122.682 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8377,7 +8500,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K22_R")
+					(reference "K_R_22")
 					(unit 1)
 				)
 			)
@@ -8393,7 +8516,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4cfd8705-02a6-4fae-8f89-fae843d06d28")
-		(property "Reference" "K43_R"
+		(property "Reference" "K_R_43"
 			(at 195.58 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8447,7 +8570,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K43_R")
+					(reference "K_R_43")
 					(unit 1)
 				)
 			)
@@ -8464,7 +8587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ea57cdc-fb2d-4740-b157-bf2b903892ff")
-		(property "Reference" "D33_R"
+		(property "Reference" "D_R_33"
 			(at 187.96 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -8538,7 +8661,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D33_R")
+					(reference "D_R_33")
 					(unit 1)
 				)
 			)
@@ -8554,7 +8677,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ee83efa-5191-4c6b-bfa8-8d07e8e9db60")
-		(property "Reference" "K36_L"
+		(property "Reference" "K_L_36"
 			(at 113.03 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8608,7 +8731,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K36_L")
+					(reference "K_L_36")
 					(unit 1)
 				)
 			)
@@ -8624,7 +8747,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "500b4c8e-0932-4a41-9438-55184f7acd34")
-		(property "Reference" "K22_L"
+		(property "Reference" "K_L_22"
 			(at 41.91 122.682 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8678,7 +8801,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K22_L")
+					(reference "K_L_22")
 					(unit 1)
 				)
 			)
@@ -8762,7 +8885,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53b6c5b3-5bba-4a05-b45c-18d90284bf5a")
-		(property "Reference" "D24_R"
+		(property "Reference" "D_R_24"
 			(at 205.74 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -8836,7 +8959,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D24_R")
+					(reference "D_R_24")
 					(unit 1)
 				)
 			)
@@ -8852,7 +8975,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5493902b-c591-482f-a938-78014b068ab3")
-		(property "Reference" "K33_R"
+		(property "Reference" "K_R_33"
 			(at 195.58 136.652 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8906,7 +9029,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K33_R")
+					(reference "K_R_33")
 					(unit 1)
 				)
 			)
@@ -9126,7 +9249,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5db0be19-07b3-4fd5-9cea-01d34b0dee6d")
-		(property "Reference" "K45_R"
+		(property "Reference" "K_R_45"
 			(at 231.14 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9180,7 +9303,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K45_R")
+					(reference "K_R_45")
 					(unit 1)
 				)
 			)
@@ -9328,7 +9451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "604523bc-b7fd-49dd-98a8-af2bef4539ac")
-		(property "Reference" "D13_L"
+		(property "Reference" "D_L_13"
 			(at 52.07 116.205 90)
 			(do_not_autoplace yes)
 			(effects
@@ -9402,7 +9525,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D13_L")
+					(reference "D_L_13")
 					(unit 1)
 				)
 			)
@@ -9419,7 +9542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60fe6b70-a047-4689-9508-45f14cf5efb4")
-		(property "Reference" "D45_R"
+		(property "Reference" "D_R_45"
 			(at 223.52 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -9493,7 +9616,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D45_R")
+					(reference "D_R_45")
 					(unit 1)
 				)
 			)
@@ -9510,7 +9633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "616b6c8e-a074-4497-b3fb-c4078552bf62")
-		(property "Reference" "D13_R"
+		(property "Reference" "D_R_13"
 			(at 187.96 116.205 90)
 			(do_not_autoplace yes)
 			(effects
@@ -9584,7 +9707,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D13_R")
+					(reference "D_R_13")
 					(unit 1)
 				)
 			)
@@ -9600,7 +9723,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "61ec6cc1-fed4-4dcc-85ed-01d5b63cdd9b")
-		(property "Reference" "K32_L"
+		(property "Reference" "K_L_32"
 			(at 41.91 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9654,7 +9777,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K32_L")
+					(reference "K_L_32")
 					(unit 1)
 				)
 			)
@@ -9670,7 +9793,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "629b1e4e-abc9-43de-8fde-723c6930369a")
-		(property "Reference" "K46_L"
+		(property "Reference" "K_L_46"
 			(at 113.03 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9724,7 +9847,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K46_L")
+					(reference "K_L_46")
 					(unit 1)
 				)
 			)
@@ -9741,7 +9864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6340cf77-59ba-40b8-9933-424423b5b26e")
-		(property "Reference" "D12_L"
+		(property "Reference" "D_L_12"
 			(at 34.29 116.205 90)
 			(do_not_autoplace yes)
 			(effects
@@ -9815,7 +9938,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D12_L")
+					(reference "D_L_12")
 					(unit 1)
 				)
 			)
@@ -9832,7 +9955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "671690dc-8930-4628-88d7-bdd3e5f505e3")
-		(property "Reference" "D37_L"
+		(property "Reference" "D_L_37"
 			(at 123.19 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -9906,7 +10029,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D37_L")
+					(reference "D_L_37")
 					(unit 1)
 				)
 			)
@@ -9923,7 +10046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67e28b82-ef21-4d2d-a8ed-c7181ce616fb")
-		(property "Reference" "D31_R"
+		(property "Reference" "D_R_31"
 			(at 152.4 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -9997,7 +10120,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D31_R")
+					(reference "D_R_31")
 					(unit 1)
 				)
 			)
@@ -10014,7 +10137,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ae0a597-9e9b-426f-9240-a7c96f28e2ae")
-		(property "Reference" "D44_R"
+		(property "Reference" "D_R_44"
 			(at 205.74 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -10088,7 +10211,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D44_R")
+					(reference "D_R_44")
 					(unit 1)
 				)
 			)
@@ -10239,7 +10362,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "722505c1-b2ee-4ec0-82bb-9ac4033372c5")
-		(property "Reference" "K44_L"
+		(property "Reference" "K_L_44"
 			(at 77.47 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10293,7 +10416,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K44_L")
+					(reference "K_L_44")
 					(unit 1)
 				)
 			)
@@ -10310,7 +10433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72762968-e456-48be-92b0-23631b765a28")
-		(property "Reference" "D21_R"
+		(property "Reference" "D_R_21"
 			(at 152.4 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -10384,7 +10507,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D21_R")
+					(reference "D_R_21")
 					(unit 1)
 				)
 			)
@@ -10606,7 +10729,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "824c707a-3bb6-46cc-942e-9505d5f067dd")
-		(property "Reference" "D26_R"
+		(property "Reference" "D_R_26"
 			(at 241.3 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -10680,7 +10803,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D26_R")
+					(reference "D_R_26")
 					(unit 1)
 				)
 			)
@@ -10696,7 +10819,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "833bb5fe-9198-4fd4-8a21-7c5deecaafd5")
-		(property "Reference" "K44_R"
+		(property "Reference" "K_R_44"
 			(at 213.36 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10750,7 +10873,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K44_R")
+					(reference "K_R_44")
 					(unit 1)
 				)
 			)
@@ -10832,7 +10955,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86f95f75-9651-463f-b194-319146be7099")
-		(property "Reference" "K42_R"
+		(property "Reference" "K_R_42"
 			(at 177.8 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10886,7 +11009,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K42_R")
+					(reference "K_R_42")
 					(unit 1)
 				)
 			)
@@ -10971,7 +11094,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8955e24d-502a-4056-9b67-e070b28d47e7")
-		(property "Reference" "K25_L"
+		(property "Reference" "K_L_25"
 			(at 95.25 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11025,7 +11148,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K25_L")
+					(reference "K_L_25")
 					(unit 1)
 				)
 			)
@@ -11041,7 +11164,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a4ef392-35e0-479e-9f20-e3754757adc9")
-		(property "Reference" "K25_R"
+		(property "Reference" "K_R_25"
 			(at 231.14 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11095,7 +11218,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K25_R")
+					(reference "K_R_25")
 					(unit 1)
 				)
 			)
@@ -11243,7 +11366,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d9be55d-1706-4be9-a946-0cc798a8ef6f")
-		(property "Reference" "K26_L"
+		(property "Reference" "K_L_26"
 			(at 113.03 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11297,7 +11420,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K26_L")
+					(reference "K_L_26")
 					(unit 1)
 				)
 			)
@@ -11313,7 +11436,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e9b12ce-94e7-4068-b0cd-0f729622fe86")
-		(property "Reference" "K42_L"
+		(property "Reference" "K_L_42"
 			(at 41.91 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11367,7 +11490,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K42_L")
+					(reference "K_L_42")
 					(unit 1)
 				)
 			)
@@ -11384,7 +11507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f68684e-6909-4847-b222-a5f4650460f8")
-		(property "Reference" "D46_R"
+		(property "Reference" "D_R_46"
 			(at 241.3 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -11458,7 +11581,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D46_R")
+					(reference "D_R_46")
 					(unit 1)
 				)
 			)
@@ -11475,7 +11598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f7426cf-a477-4cce-9507-7d775221071e")
-		(property "Reference" "D35_L"
+		(property "Reference" "D_L_35"
 			(at 87.63 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -11549,7 +11672,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D35_L")
+					(reference "D_L_35")
 					(unit 1)
 				)
 			)
@@ -11699,7 +11822,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "921f7881-63ca-4a4a-ae95-360a9f7efc54")
-		(property "Reference" "K31_L"
+		(property "Reference" "K_L_31"
 			(at 24.13 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11753,7 +11876,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K31_L")
+					(reference "K_L_31")
 					(unit 1)
 				)
 			)
@@ -11770,7 +11893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "924da0e4-6397-4237-8285-3b2fc2b4abbe")
-		(property "Reference" "D35_R"
+		(property "Reference" "D_R_35"
 			(at 223.52 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -11844,7 +11967,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D35_R")
+					(reference "D_R_35")
 					(unit 1)
 				)
 			)
@@ -11860,7 +11983,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9321c8cf-3625-42a5-9f53-0575a74ed3bd")
-		(property "Reference" "K37_L"
+		(property "Reference" "K_L_37"
 			(at 130.81 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11914,7 +12037,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K37_L")
+					(reference "K_L_37")
 					(unit 1)
 				)
 			)
@@ -11931,7 +12054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93b0c958-59cf-4395-9e3e-64a545a0005d")
-		(property "Reference" "D24_L"
+		(property "Reference" "D_L_24"
 			(at 69.85 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -12005,7 +12128,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D24_L")
+					(reference "D_L_24")
 					(unit 1)
 				)
 			)
@@ -12021,7 +12144,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "945433d7-8f23-4a3f-82a2-bd60ca6b923c")
-		(property "Reference" "K13_L"
+		(property "Reference" "K_L_13"
 			(at 59.69 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12075,7 +12198,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K13_L")
+					(reference "K_L_13")
 					(unit 1)
 				)
 			)
@@ -12160,7 +12283,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99a1784d-8dc2-42b7-ab3c-85ac897ab5ec")
-		(property "Reference" "K12_L"
+		(property "Reference" "K_L_12"
 			(at 41.91 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12214,7 +12337,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K12_L")
+					(reference "K_L_12")
 					(unit 1)
 				)
 			)
@@ -12230,7 +12353,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b8887ac-195a-4c63-9f79-ef364439a4bb")
-		(property "Reference" "K24_R"
+		(property "Reference" "K_R_24"
 			(at 213.36 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12284,7 +12407,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K24_R")
+					(reference "K_R_24")
 					(unit 1)
 				)
 			)
@@ -12377,7 +12500,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2b950b1-45c4-4162-8bba-42e245424937")
-		(property "Reference" "D43_R"
+		(property "Reference" "D_R_43"
 			(at 187.96 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -12451,7 +12574,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D43_R")
+					(reference "D_R_43")
 					(unit 1)
 				)
 			)
@@ -12467,7 +12590,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a8d1ba8d-bb7d-4d5f-a4a4-6ae046df413c")
-		(property "Reference" "K34_L"
+		(property "Reference" "K_L_34"
 			(at 77.47 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12521,7 +12644,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K34_L")
+					(reference "K_L_34")
 					(unit 1)
 				)
 			)
@@ -12615,7 +12738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abf33fb6-643a-40ce-b6a5-df14cfa77b40")
-		(property "Reference" "D26_L"
+		(property "Reference" "D_L_26"
 			(at 105.41 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -12689,7 +12812,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D26_L")
+					(reference "D_L_26")
 					(unit 1)
 				)
 			)
@@ -12706,7 +12829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acf86613-0572-40fb-b9bc-5a4921435ed5")
-		(property "Reference" "D43_L"
+		(property "Reference" "D_L_43"
 			(at 52.07 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -12780,7 +12903,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D43_L")
+					(reference "D_L_43")
 					(unit 1)
 				)
 			)
@@ -12863,7 +12986,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af52aa9b-2aad-4973-af8d-b0d22d301e71")
-		(property "Reference" "D34_L"
+		(property "Reference" "D_L_34"
 			(at 69.85 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -12937,7 +13060,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D34_L")
+					(reference "D_L_34")
 					(unit 1)
 				)
 			)
@@ -13023,7 +13146,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b45dc16c-50ce-4ba7-9beb-6e2e184e2dd2")
-		(property "Reference" "D21_L"
+		(property "Reference" "D_L_21"
 			(at 16.51 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -13097,7 +13220,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D21_L")
+					(reference "D_L_21")
 					(unit 1)
 				)
 			)
@@ -13330,7 +13453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5d42307-a7bb-4e5f-9eb1-f3c8d04239ab")
-		(property "Reference" "D41_R"
+		(property "Reference" "D_R_41"
 			(at 152.4 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -13404,7 +13527,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D41_R")
+					(reference "D_R_41")
 					(unit 1)
 				)
 			)
@@ -13420,7 +13543,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b75c0aa1-b554-4621-8b2a-ee3b9e43d3aa")
-		(property "Reference" "K14_R"
+		(property "Reference" "K_R_14"
 			(at 213.36 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13474,7 +13597,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K14_R")
+					(reference "K_R_14")
 					(unit 1)
 				)
 			)
@@ -13556,7 +13679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb316994-3a3e-48d1-b575-c283ac6f441d")
-		(property "Reference" "D42_R"
+		(property "Reference" "D_R_42"
 			(at 170.18 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -13630,7 +13753,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D42_R")
+					(reference "D_R_42")
 					(unit 1)
 				)
 			)
@@ -13712,7 +13835,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c10ae898-ca09-44d9-97a9-f6a60e2d9e0a")
-		(property "Reference" "K31_R"
+		(property "Reference" "K_R_31"
 			(at 160.02 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13766,7 +13889,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K31_R")
+					(reference "K_R_31")
 					(unit 1)
 				)
 			)
@@ -13782,7 +13905,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2a4e7cb-982c-4d06-8c5d-fb49464b1eb9")
-		(property "Reference" "K23_R"
+		(property "Reference" "K_R_23"
 			(at 195.58 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13836,7 +13959,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K23_R")
+					(reference "K_R_23")
 					(unit 1)
 				)
 			)
@@ -13853,7 +13976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c47d565a-2c4b-46cc-91f5-707deefa6410")
-		(property "Reference" "D37_R"
+		(property "Reference" "D_R_37"
 			(at 259.08 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -13927,7 +14050,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D37_R")
+					(reference "D_R_37")
 					(unit 1)
 				)
 			)
@@ -13943,7 +14066,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4a12ba4-3502-4d1f-9816-47c7ccbebb0d")
-		(property "Reference" "K21_R"
+		(property "Reference" "K_R_21"
 			(at 160.02 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13997,7 +14120,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K21_R")
+					(reference "K_R_21")
 					(unit 1)
 				)
 			)
@@ -14014,7 +14137,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c65fbb5e-006b-4de0-8dfb-e2c0a0b9f3a9")
-		(property "Reference" "D11_R"
+		(property "Reference" "D_R_11"
 			(at 152.4 116.205 90)
 			(do_not_autoplace yes)
 			(effects
@@ -14088,7 +14211,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D11_R")
+					(reference "D_R_11")
 					(unit 1)
 				)
 			)
@@ -14235,7 +14358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca4da253-734c-4363-99e9-a3b5ea50e70c")
-		(property "Reference" "D25_L"
+		(property "Reference" "D_L_25"
 			(at 87.63 130.175 90)
 			(do_not_autoplace yes)
 			(effects
@@ -14309,7 +14432,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D25_L")
+					(reference "D_L_25")
 					(unit 1)
 				)
 			)
@@ -14325,7 +14448,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cc036827-f193-4caa-bb75-f353b3c8eb17")
-		(property "Reference" "K46_R"
+		(property "Reference" "K_R_46"
 			(at 248.92 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14379,7 +14502,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K46_R")
+					(reference "K_R_46")
 					(unit 1)
 				)
 			)
@@ -14396,7 +14519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf2e7637-3c8e-4eba-9f17-94f1160455ff")
-		(property "Reference" "D41_L"
+		(property "Reference" "D_L_41"
 			(at 16.51 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -14470,7 +14593,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D41_L")
+					(reference "D_L_41")
 					(unit 1)
 				)
 			)
@@ -14553,7 +14676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d420e062-5f6c-4cea-87b2-29f3d79d6efd")
-		(property "Reference" "D32_L"
+		(property "Reference" "D_L_32"
 			(at 34.29 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -14627,7 +14750,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D32_L")
+					(reference "D_L_32")
 					(unit 1)
 				)
 			)
@@ -14643,7 +14766,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e05ee356-1695-4598-9d46-66924fa4cdee")
-		(property "Reference" "K36_R"
+		(property "Reference" "K_R_36"
 			(at 248.92 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14697,7 +14820,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K36_R")
+					(reference "K_R_36")
 					(unit 1)
 				)
 			)
@@ -14714,7 +14837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2816ef0-d0fb-47d7-8fcf-769e95b62027")
-		(property "Reference" "D14_R"
+		(property "Reference" "D_R_14"
 			(at 205.74 116.205 90)
 			(do_not_autoplace yes)
 			(effects
@@ -14788,7 +14911,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D14_R")
+					(reference "D_R_14")
 					(unit 1)
 				)
 			)
@@ -14871,7 +14994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e50f215f-e565-40bc-a051-fb5e6d4543a1")
-		(property "Reference" "D36_L"
+		(property "Reference" "D_L_36"
 			(at 105.41 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -14945,7 +15068,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D36_L")
+					(reference "D_L_36")
 					(unit 1)
 				)
 			)
@@ -14962,7 +15085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e58f08ff-3e04-4e6b-aca4-23705bb13fdf")
-		(property "Reference" "D32_R"
+		(property "Reference" "D_R_32"
 			(at 170.18 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -15036,7 +15159,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D32_R")
+					(reference "D_R_32")
 					(unit 1)
 				)
 			)
@@ -15052,7 +15175,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea4bec85-aa2e-4d41-8813-5dfb514a2a03")
-		(property "Reference" "K41_R"
+		(property "Reference" "K_R_41"
 			(at 160.02 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15106,7 +15229,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K41_R")
+					(reference "K_R_41")
 					(unit 1)
 				)
 			)
@@ -15123,7 +15246,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea7b446b-20ab-4369-ac21-f20403efa5b6")
-		(property "Reference" "D45_L"
+		(property "Reference" "D_L_45"
 			(at 87.63 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -15197,7 +15320,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D45_L")
+					(reference "D_L_45")
 					(unit 1)
 				)
 			)
@@ -15213,7 +15336,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb066bed-0583-4273-a3f1-5173b43e9f42")
-		(property "Reference" "K11_L"
+		(property "Reference" "K_L_11"
 			(at 24.13 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15267,7 +15390,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K11_L")
+					(reference "K_L_11")
 					(unit 1)
 				)
 			)
@@ -15283,7 +15406,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec82a7c3-088b-4198-9785-1fdbcf621d47")
-		(property "Reference" "K41_L"
+		(property "Reference" "K_L_41"
 			(at 24.13 150.622 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15337,7 +15460,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K41_L")
+					(reference "K_L_41")
 					(unit 1)
 				)
 			)
@@ -15353,7 +15476,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eca049f9-4ae7-4400-9b2d-c76ee6c912d0")
-		(property "Reference" "K37_R"
+		(property "Reference" "K_R_37"
 			(at 266.7 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15407,7 +15530,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K37_R")
+					(reference "K_R_37")
 					(unit 1)
 				)
 			)
@@ -15423,7 +15546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0dfadd9-94fe-493b-8007-0381e69d2bb8")
-		(property "Reference" "K23_L"
+		(property "Reference" "K_L_23"
 			(at 59.69 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15477,7 +15600,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K23_L")
+					(reference "K_L_23")
 					(unit 1)
 				)
 			)
@@ -15559,7 +15682,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f3f0de6c-0b46-465b-9e83-9ea91ea5f315")
-		(property "Reference" "K13_R"
+		(property "Reference" "K_R_13"
 			(at 195.58 108.712 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15613,7 +15736,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K13_R")
+					(reference "K_R_13")
 					(unit 1)
 				)
 			)
@@ -15630,7 +15753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f411186f-8900-44e9-abbf-f06b12f6852e")
-		(property "Reference" "D12_R"
+		(property "Reference" "D_R_12"
 			(at 170.18 116.205 90)
 			(do_not_autoplace yes)
 			(effects
@@ -15704,7 +15827,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D12_R")
+					(reference "D_R_12")
 					(unit 1)
 				)
 			)
@@ -15789,7 +15912,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5186f93-ea8d-4ee2-910c-a303784d2fce")
-		(property "Reference" "K24_L"
+		(property "Reference" "K_L_24"
 			(at 77.47 122.936 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15843,7 +15966,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K24_L")
+					(reference "K_L_24")
 					(unit 1)
 				)
 			)
@@ -15860,7 +15983,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7cb1409-65a6-45cc-b252-7b6f218ce665")
-		(property "Reference" "D44_L"
+		(property "Reference" "D_L_44"
 			(at 69.85 158.115 90)
 			(do_not_autoplace yes)
 			(effects
@@ -15934,7 +16057,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D44_L")
+					(reference "D_L_44")
 					(unit 1)
 				)
 			)
@@ -15950,7 +16073,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f852ef98-8e95-4f2b-bf3e-add115fc67d1")
-		(property "Reference" "K35_L"
+		(property "Reference" "K_L_35"
 			(at 95.25 136.906 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16004,98 +16127,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "K35_L")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 19.05 116.84 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f96e0bb6-5185-424b-b47d-ecabeea0dc32")
-		(property "Reference" "D11_L"
-			(at 16.51 116.205 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 16.51 118.745 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 19.05 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 19.05 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 19.05 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 19.05 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 19.05 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d34b9327-f752-46ba-a8e9-96f032e06020")
-		)
-		(pin "2"
-			(uuid "b06c4a83-8378-4605-802f-66cd5df0b61a")
-		)
-		(instances
-			(project "ErgoNexus"
-				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D11_L")
+					(reference "K_L_35")
 					(unit 1)
 				)
 			)
@@ -16112,7 +16144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcb09a04-b2ab-4573-8333-5ad8c5c5d794")
-		(property "Reference" "D34_R"
+		(property "Reference" "D_R_34"
 			(at 205.74 144.145 90)
 			(do_not_autoplace yes)
 			(effects
@@ -16186,7 +16218,7 @@
 		(instances
 			(project "ErgoNexus"
 				(path "/ad958bbb-bf1e-4c2d-a29f-baab77bd2496"
-					(reference "D34_R")
+					(reference "D_R_34")
 					(unit 1)
 				)
 			)
