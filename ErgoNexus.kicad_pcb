@@ -15472,11 +15472,11 @@
 	(footprint "kbd_Parts:OLED"
 		(layer "F.Cu")
 		(uuid "5b5f851f-2580-490f-b441-229322c46bfc")
-		(at 229.869242 73.604737 -82.22)
+		(at 229.869242 73.604737 -82.88)
 		(descr "Connecteur 6 pins")
 		(tags "CONN DEV")
 		(property "Reference" "OL8"
-			(at 3.699999 2.1 97.78)
+			(at 3.699999 2.1 97.12)
 			(layer "F.Fab")
 			(uuid "474f2351-301e-4c59-9267-d756a0b2cb03")
 			(effects
@@ -15487,7 +15487,7 @@
 			)
 		)
 		(property "Value" "OLED"
-			(at 3.6 3.3 97.78)
+			(at 3.600001 3.300001 97.12)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9556134f-b753-424f-9b12-3b4c605b836e")
@@ -15499,7 +15499,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 97.78)
+			(at 0 0 97.12)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d6d64ac7-f95c-4332-a868-391cd50bae2b")
@@ -15511,7 +15511,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 97.78)
+			(at 0 0 97.12)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a40148c0-8865-435d-829c-d37ff1cde5c2")
@@ -15528,7 +15528,7 @@
 		(attr through_hole)
 		(fp_line
 			(start -1.27 1.270001)
-			(end 8.89 1.27)
+			(end 8.889999 1.27)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -15558,7 +15558,7 @@
 		)
 		(fp_line
 			(start 8.890001 -1.27)
-			(end 8.89 1.27)
+			(end 8.889999 1.27)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -15567,7 +15567,7 @@
 			(uuid "d14ebcd4-e1f4-4217-9604-2803f8583f4d")
 		)
 		(fp_text user "OLED"
-			(at 3.800001 -2.1 97.78)
+			(at 3.800001 -2.1 97.12)
 			(layer "F.SilkS")
 			(uuid "e175495b-61b6-4ebe-babc-db3abd7d49a1")
 			(effects
@@ -15578,7 +15578,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 277.78)
+			(at 0 0 277.12)
 			(size 1.397 1.397)
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
@@ -15589,7 +15589,7 @@
 			(uuid "8930e14f-235a-4ec3-86f0-865c53d3c1dd")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0 277.78)
+			(at 2.540001 0.000001 277.12)
 			(size 1.397 1.397)
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
@@ -15600,7 +15600,7 @@
 			(uuid "380f74a6-00d1-4e84-8131-e04e18847114")
 		)
 		(pad "3" thru_hole circle
-			(at 5.080001 0 277.78)
+			(at 5.08 0 277.12)
 			(size 1.397 1.397)
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
@@ -15611,7 +15611,7 @@
 			(uuid "37eb70d2-073f-4c1f-a727-16e89c39cb81")
 		)
 		(pad "4" thru_hole circle
-			(at 7.620001 0 277.78)
+			(at 7.620001 0.000001 277.12)
 			(size 1.397 1.397)
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
