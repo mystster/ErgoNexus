@@ -8276,6 +8276,17 @@
 			(uuid "34f6e1a5-a58b-4083-939b-c39965b89d42")
 		)
 		(embedded_fonts no)
+		(model "D:/kicad/kbd-3-final/kicad-packages3D/kbd.3dshapes/MX Series-Cherry Key.step"
+			(offset
+				(xyz 7.5 7.5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
@@ -15622,6 +15633,17 @@
 			(uuid "fcedf355-531b-49e7-bfca-fabcfb45f75b")
 		)
 		(embedded_fonts no)
+		(model "D:/kicad/kbd-3-final/kicad-packages3D/kbd.3dshapes/OLED Module with Pins Soldered.step"
+			(offset
+				(xyz 3.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Keebio-Parts.pretty-master:Resistor-Compact-1-side"
 		(layer "F.Cu")
