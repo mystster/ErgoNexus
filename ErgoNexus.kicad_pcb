@@ -38442,6 +38442,45 @@
 		(layer "Margin")
 		(uuid "e85bd4d2-2c20-421e-8011-27d05bd86674")
 	)
+	(gr_text "ErgoNexus v1.0 PCB Designed by @mystster"
+		(at 316.185 156.179666 21)
+		(layer "F.SilkS")
+		(uuid "136e00be-e3ed-4f0b-8996-0fa9e2b5fee0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Right-Front"
+		(at 389.885 120.779666 67)
+		(layer "F.SilkS")
+		(uuid "d5dd6226-012e-4e92-b72d-51535efa716c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Right-Back"
+		(at 393.385 112.379666 67)
+		(layer "B.SilkS")
+		(uuid "63fe305b-57bc-4696-9b4a-da99da3335ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 232.885 130.279666)
 		(end 234.111 129.053666)
