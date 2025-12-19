@@ -1,4 +1,4 @@
-27564071014352239
+27565836993383831
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -110710,6 +110710,13 @@ MX_Choc_v1v2_Hotswap_1u
 
 0
 4
+2
+myLibrary
+C_Disc_D3.8mm_W2.6mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor
+0
+2
 2
 myLibrary
 LED Rectangle(OSTBMAZ2C1D)
