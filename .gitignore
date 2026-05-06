@@ -2,3 +2,7 @@ ErgoNexus-backups
 ~*
 \#*\#
 .history/
+*.svg
+*.dxf
+*.3mf
+fp-lib-table
