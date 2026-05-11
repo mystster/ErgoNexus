@@ -7360,7 +7360,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RotaryEncoder_Switch"
+		(property "Value" "RotaryEncoder"
 			(at 235.712 45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10255,7 +10255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THQWGD001:THQWGD001C [2pin] #1"
+		(property "Footprint" "THQWGD001:THQWGD001C [2pin] #2"
 			(at 175.006 73.406 0)
 			(hide yes)
 			(show_name no)
@@ -12391,7 +12391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "THQWGD001:THQWGD001C [2pin] #1"
+		(property "Footprint" "THQWGD001:THQWGD001C [2pin] #2"
 			(at 67.056 69.596 0)
 			(hide yes)
 			(show_name no)
