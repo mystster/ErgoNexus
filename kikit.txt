@@ -1,0 +1,9 @@
+kikit panelize \
+          --layout 'grid; rows: 1; cols: 1; space: 2mm' \
+          --tabs annotation \
+          --cuts 'mousebites; drill: 0.5mm; spacing: 1mm; offset: 0.0mm; prolong: 0.5mm' \
+          --framing 'frame; width: 5mm; space: 3mm;' \
+          --post 'millradius: 1mm' \
+          --tooling '4hole; hoffset: 2.5mm; voffset: 2.5mm; size: 2mm' \
+          --fiducials '4fid; hoffset: 6mm; voffset: 2.5mm; coppersize: 2mm; opening: 1mm' \
+      ErgoNexus.kicad_pcb ErgoNexus_kikit.kicad_pcb
