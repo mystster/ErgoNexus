@@ -7000,7 +7000,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 129.54 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -7046,6 +7046,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 129.54 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 129.54 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7136,6 +7147,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 63.5 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6aebae51-5b7c-4014-bb04-88172a2ed2c5")
 		)
@@ -7187,7 +7209,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 196.85 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -7233,6 +7255,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 196.85 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7313,6 +7346,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 81.28 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 81.28 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -7404,6 +7448,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 246.38 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C"
 			(uuid "052303e7-c61e-457c-8aeb-e91ee02cf81e")
 		)
@@ -7464,7 +7519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 76.2 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -7510,6 +7565,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 76.2 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 76.2 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7600,6 +7666,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 237.49 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44ba3466-ed27-458f-ac73-a92741b7460a")
 		)
@@ -7679,6 +7756,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C4109"
+			(at 114.3 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "42957442-32e7-4e13-8de5-73009fae42af")
 		)
@@ -7730,7 +7818,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 250.19 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -7776,6 +7864,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 250.19 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 250.19 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7835,7 +7934,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 129.54 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -7881,6 +7980,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 129.54 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 129.54 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7961,6 +8071,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 166.37 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 166.37 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -8052,6 +8173,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 184.15 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "775d8637-d380-41f5-bb36-207f184ee2cd")
 		)
@@ -8103,7 +8235,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 179.07 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8149,6 +8281,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 179.07 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 179.07 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8229,6 +8372,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.27 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 255.27 127 0)
 			(hide yes)
 			(show_name no)
@@ -8320,6 +8474,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 134.62 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e6fcbbcb-bd20-4953-83d8-ba9d206f3b31")
 		)
@@ -8371,7 +8536,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 93.98 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8417,6 +8582,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 93.98 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8477,7 +8653,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 40.64 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -8523,6 +8699,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 40.64 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 40.64 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8602,6 +8789,17 @@
 			)
 		)
 		(property "Description" "Symbol for an nicekeyboards nice!nano"
+			(at 189.23 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 189.23 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8744,7 +8942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 111.76 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8790,6 +8988,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 111.76 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 111.76 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8850,7 +9059,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 232.41 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8896,6 +9105,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.41 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 232.41 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8976,6 +9196,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 99.06 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 99.06 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -9145,6 +9376,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 99.06 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "135bc47f-47b0-4c38-9de4-d3016f02e73a")
 		)
@@ -9226,6 +9468,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 184.15 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "100da226-0e73-4406-84b1-d4e076898e13")
 		)
@@ -9297,6 +9550,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 219.71 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 219.71 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -9436,7 +9700,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 111.76 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -9482,6 +9746,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 111.76 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 111.76 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9620,7 +9895,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 93.98 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9666,6 +9941,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 93.98 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9804,7 +10090,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 250.19 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -9850,6 +10136,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 250.19 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 250.19 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9930,6 +10227,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 184.15 127 0)
 			(hide yes)
 			(show_name no)
@@ -10021,6 +10329,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 201.93 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c244358f-b283-4212-9436-08bed69e8c08")
 		)
@@ -10072,7 +10391,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 196.85 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -10118,6 +10437,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 196.85 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10208,6 +10538,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 45.72 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d05649f5-9daf-485e-ae96-7509664651c5")
 		)
@@ -10279,6 +10620,17 @@
 		)
 		(property "Description" "1U Wheel Encoder"
 			(at 176.022 93.472 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 175.26 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10368,6 +10720,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 116.84 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 116.84 127 0)
 			(hide yes)
 			(show_name no)
@@ -10508,7 +10871,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 214.63 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10554,6 +10917,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 214.63 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 214.63 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10634,6 +11008,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 201.93 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 201.93 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -10726,6 +11111,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 267.97 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dbb9bb8c-a883-4a67-b79c-58ed1f6b59fd")
 		)
@@ -10796,6 +11192,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 243.84 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 243.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10877,6 +11284,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 237.49 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 237.49 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -11093,7 +11511,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 93.98 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11139,6 +11557,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 93.98 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11199,7 +11628,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 232.41 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11245,6 +11674,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.41 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 232.41 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11305,7 +11745,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 196.85 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11351,6 +11791,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 196.85 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11431,6 +11882,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 116.84 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 116.84 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -11522,6 +11984,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 45.72 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6cf538df-5191-4ee9-905f-61a8be8d5297")
 		)
@@ -11573,7 +12046,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 111.76 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11619,6 +12092,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 111.76 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 111.76 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11707,6 +12191,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C4109"
+			(at 246.38 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "228e2f4a-eb40-4476-80ab-d794712d269d")
 		)
@@ -11758,7 +12253,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 161.29 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -11804,6 +12299,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 161.29 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 161.29 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11864,7 +12370,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 214.63 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -11910,6 +12416,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 214.63 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 214.63 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12078,6 +12595,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 81.28 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36ced654-0342-477e-b62f-16b1a5ae5948")
 		)
@@ -12129,7 +12657,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 161.29 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -12175,6 +12703,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 161.29 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 161.29 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12256,6 +12795,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 127 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -12424,6 +12974,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 67.31 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "002297fa-83d9-4f3f-846a-2e9fbe03c1ff")
 		)
@@ -12484,7 +13045,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 250.19 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -12530,6 +13091,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 250.19 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 250.19 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12620,6 +13192,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 219.71 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cb5dd519-ae9d-4124-8544-ca2fe92dbd91")
 		)
@@ -12690,6 +13273,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 246.38 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25890"
+			(at 246.38 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12770,6 +13364,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 184.15 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -12861,6 +13466,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 63.5 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6df7927f-5502-405b-9cdc-c7ede30d9420")
 		)
@@ -12932,6 +13548,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 237.49 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 237.49 127 0)
 			(hide yes)
 			(show_name no)
@@ -13101,6 +13728,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 45.72 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c661ee1c-9b07-4109-9469-e10e7421e667")
 		)
@@ -13182,6 +13820,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 116.84 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1df471f7-944b-4bb0-a717-244cb6bbae5a")
 		)
@@ -13233,7 +13882,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 250.19 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -13279,6 +13928,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 250.19 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 250.19 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13339,7 +13999,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 58.42 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -13385,6 +14045,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 58.42 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 58.42 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13464,6 +14135,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 102.87 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 102.87 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -13633,6 +14315,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 134.62 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "710bb1ba-ad81-46e0-893a-c5c2b761748d")
 		)
@@ -13684,7 +14377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 232.41 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -13730,6 +14423,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.41 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 232.41 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13790,7 +14494,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 76.2 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -13836,6 +14540,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 76.2 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 76.2 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13916,6 +14631,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 99.06 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 99.06 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -14083,6 +14809,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C4109"
+			(at 246.38 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b7d4bc88-95b4-40a2-b3b3-92a69ce2b9e7")
 		)
@@ -14164,6 +14901,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 116.84 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "43da6388-bf2d-4942-af30-072f2229aaa0")
 		)
@@ -14215,7 +14963,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 58.42 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -14261,6 +15009,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 58.42 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 58.42 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14351,6 +15110,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 219.71 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "75c6ed9b-55f2-4437-bc61-42ea8335fcb2")
 		)
@@ -14402,7 +15172,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 40.64 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -14448,6 +15218,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 40.64 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 40.64 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14508,7 +15289,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 196.85 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -14554,6 +15335,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 196.85 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14633,6 +15425,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 114.3 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4109"
+			(at 114.3 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14723,6 +15526,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 81.28 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b38fde5-446e-4ba1-bed1-9c9881663c47")
 		)
@@ -14803,6 +15617,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 107.95 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C"
 			(uuid "83eddf30-9422-4736-ba21-755aa76a10e7")
 		)
@@ -14863,7 +15688,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 40.64 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -14909,6 +15734,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 40.64 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 40.64 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14969,7 +15805,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 93.98 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -15015,6 +15851,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 93.98 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15075,7 +15922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 76.2 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -15121,6 +15968,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 76.2 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 76.2 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15209,6 +16067,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25890"
+			(at 114.3 73.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ada42793-5e28-4caf-84c8-79b7c0a56dca")
 		)
@@ -15259,7 +16128,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 129.54 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -15305,6 +16174,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 129.54 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 129.54 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15473,6 +16353,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 48.26 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "34c4207a-a6a3-4219-8be2-084bc0f58142")
 		)
@@ -15605,7 +16496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 161.29 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -15651,6 +16542,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 161.29 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 161.29 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15741,6 +16643,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 219.71 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f14174ee-2902-4e67-a218-3fa008cbb24f")
 		)
@@ -15791,7 +16704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 179.07 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -15837,6 +16750,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 179.07 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 179.07 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16004,6 +16928,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 166.37 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9d094755-5b9f-4df9-ac3a-a055489ee567")
 		)
@@ -16075,6 +17010,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 201.93 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 201.93 127 0)
 			(hide yes)
 			(show_name no)
@@ -16166,6 +17112,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 166.37 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d3d52d1d-dd5b-428f-88a4-f756a3f3f943")
 		)
@@ -16217,7 +17174,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 161.29 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16263,6 +17220,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 161.29 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 161.29 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16477,7 +17445,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 58.42 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -16523,6 +17491,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 58.42 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 58.42 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16613,6 +17592,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 255.27 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dddfeb33-76c5-4b41-956c-9814e7f2c32e")
 		)
@@ -16664,7 +17654,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 232.41 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -16710,6 +17700,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.41 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 232.41 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16769,7 +17770,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 129.54 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -16815,6 +17816,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 129.54 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 129.54 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16953,7 +17965,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 111.76 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -16999,6 +18011,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 111.76 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 111.76 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17078,6 +18101,17 @@
 			)
 		)
 		(property "Description" "RGB LED, anode/blue/green/red"
+			(at 259.08 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 259.08 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -17175,6 +18209,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 255.27 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d9fad388-ac61-462d-9afa-5505825dfc8a")
 		)
@@ -17226,7 +18271,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 214.63 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -17272,6 +18317,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 214.63 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 214.63 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17410,7 +18466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 40.64 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -17456,6 +18512,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 40.64 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 40.64 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17516,7 +18583,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 179.07 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -17562,6 +18629,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 179.07 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 179.07 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17652,6 +18730,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 166.37 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41f3bc45-4053-4cb7-8920-8e8eda13be7d")
 		)
@@ -17703,7 +18792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 58.42 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -17749,6 +18838,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 58.42 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 58.42 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17829,6 +18929,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 134.62 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 134.62 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -17920,6 +19031,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 134.62 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "35970571-abc1-4378-9c12-dd519de172cb")
 		)
@@ -17991,6 +19113,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 99.06 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 99.06 127 0)
 			(hide yes)
 			(show_name no)
@@ -18082,6 +19215,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 201.93 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "222a2b2c-29af-4bad-a04c-e3a3d01bd33f")
 		)
@@ -18133,7 +19277,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 179.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18179,6 +19323,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 179.07 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 179.07 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18269,6 +19424,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 81.28 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1fc59e89-7c1a-4bd4-bca4-0c657f632bc8")
 		)
@@ -18349,6 +19515,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 127 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "99417ad8-8b6f-466e-ba3d-585fefa8ff04")
 		)
@@ -18406,7 +19583,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 76.2 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -18452,6 +19629,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 76.2 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 76.2 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18542,6 +19730,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 63.5 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d625ef87-b5a8-448a-ad14-fd1356768a21")
 		)
@@ -18593,7 +19792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Keebio-Parts:D_SOD-323"
 			(at 214.63 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -18639,6 +19838,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 214.63 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 214.63 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
