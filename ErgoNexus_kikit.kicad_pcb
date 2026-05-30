@@ -261,7 +261,7 @@
 		(path "/b51fc1c3-1f8d-4a2d-945d-61d256635792")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.55 -14.2)
@@ -8892,7 +8892,7 @@
 		(path "/0923f45d-3513-40f7-8615-9f1d1ac32698")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 6.1 -5.9)
@@ -9512,7 +9512,7 @@
 		(path "/26ed416a-1653-4c10-8de5-a8b6f26dd51b")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.55 -14.2)
@@ -18617,7 +18617,7 @@
 		(path "/7cff7f8c-939c-453f-9760-f7b8a8ed028a")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 9.299999 3)
@@ -23504,7 +23504,7 @@
 		(path "/a9bb3c9a-5ea5-4060-b799-c506a90659c5")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 2 -5.9)
@@ -27620,7 +27620,7 @@
 		(path "/4f49c379-0c3b-4d97-b683-d1269b4899ae")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -8.08 4.805)
@@ -36883,7 +36883,7 @@
 		(path "/5cde98ed-38ab-4a5e-b8f6-495e8624f9ae")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -1.75)
@@ -37053,7 +37053,7 @@
 		(path "/9103ef2c-2fb4-4342-89a2-7576b8902690")
 		(sheetname "/")
 		(sheetfile "ErgoNexus.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -1.75)

@@ -6,10 +6,8 @@ SW_Push,K_L_33,GatronLP_Hotswap_1u,,1
 SW_Push,K_L_35,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_12,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_42,GatronLP_Hotswap_1u,,1
-RotaryEncoder_Switch,RE2,THQWGD001C [2pin] #2,,1
 SW_Push,K_L_42,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_43,GatronLP_Hotswap_1u,,1
-RotaryEncoder_Switch,RE4,THQWGD001C [2pin] #2,,1
 SW_Push,K_R_32,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_11,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_34,GatronLP_Hotswap_1u,,1
@@ -26,7 +24,6 @@ SW_Push,K_L_24,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_35,GatronLP_Hotswap_1u,,1
 SW_Push,K_L_16,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_25,GatronLP_Hotswap_1u,,1
-RotaryEncoder,RE1,RotaryEncoder_EC11,,1
 SW_Push,K_R_24,GatronLP_Hotswap_1u,,1
 SW_Push,K_L_21,GatronLP_Hotswap_1u,,1
 LED_ABGR,LED2,LED Rectangle(OSTBMAZ2C1D),,1
@@ -41,7 +38,6 @@ SW_Push,K_L_25,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_23,GatronLP_Hotswap_1u,,1
 SW_Push,K_L_44,GatronLP_Hotswap_1u,,1
 LED_ABGR,LED1,LED Rectangle(OSTBMAZ2C1D),,1
-RotaryEncoder,RE3,RotaryEncoder_EC11,,1
 SW_Push,K_R_44,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_21,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_41,GatronLP_Hotswap_1u,,1
@@ -53,6 +49,4 @@ SW_Push,K_L_32,GatronLP_Hotswap_1u,,1
 SW_Push,K_R_13,GatronLP_Hotswap_1u,,1
 SW_Push,K_L_43,GatronLP_Hotswap_1u,,1
 Conn_01x02,J8,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,,1
-SW_Push,SW1,ResetSW,,1
 Conn_01x02,J7,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,,1
-SW_Push,SW3,ResetSW,,1

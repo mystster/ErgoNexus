@@ -93,18 +93,6 @@ K_R_41,SW_Push,GatronLP_Hotswap_1u,188.212523,-127.8,62.0,top
 K_R_42,SW_Push,GatronLP_Hotswap_1u,200.464833,-109.4,47.0,top
 K_R_43,SW_Push,GatronLP_Hotswap_1u,218.764833,-95.5,25.0,top
 K_R_44,SW_Push,GatronLP_Hotswap_1u,242.964833,-92.136272,-2.0,top
-KiKit_FID_B_1,Fiducial,Fiducial,6.0,-2.5,0.0,bottom
-KiKit_FID_B_2,Fiducial,Fiducial,336.0,-2.5,0.0,bottom
-KiKit_FID_B_3,Fiducial,Fiducial,6.0,-150.0,0.0,bottom
-KiKit_FID_B_4,Fiducial,Fiducial,336.0,-150.0,0.0,bottom
-KiKit_FID_T_1,Fiducial,Fiducial,6.0,-2.5,0.0,top
-KiKit_FID_T_2,Fiducial,Fiducial,336.0,-2.5,0.0,top
-KiKit_FID_T_3,Fiducial,Fiducial,6.0,-150.0,0.0,top
-KiKit_FID_T_4,Fiducial,Fiducial,336.0,-150.0,0.0,top
-KiKit_TO_1,NPTH,NPTH,2.5,-2.5,0.0,top
-KiKit_TO_2,NPTH,NPTH,339.5,-2.5,0.0,top
-KiKit_TO_3,NPTH,NPTH,2.5,-150.0,0.0,top
-KiKit_TO_4,NPTH,NPTH,339.5,-150.0,0.0,top
 LED1,LED_ABGR,LED Rectangle(OSTBMAZ2C1D),164.54,-69.46,-90.0,top
 LED2,LED_ABGR,LED Rectangle(OSTBMAZ2C1D),177.46,-69.46,0.0,top
 R10,2k,R_0402,175.0,-69.5,0.0,bottom
@@ -113,11 +101,3 @@ R6,2k,R_0402,166.55,-65.0,180.0,bottom
 R7,2k,R_0402,163.0,-65.0,0.0,bottom
 R8,3.3k,R_0402,179.0,-65.0,0.0,bottom
 R9,2k,R_0402,175.5,-65.0,0.0,bottom
-RE1,RotaryEncoder,RotaryEncoder_EC11,152.735167,-87.001489,90.0,top
-RE2,RotaryEncoder_Switch,THQWGD001C [2pin] #2,110.875948,-114.877841,-110.0,top
-RE3,RotaryEncoder,RotaryEncoder_EC11,189.264833,-87.001489,90.0,top
-RE4,RotaryEncoder_Switch,THQWGD001C [2pin] #2,231.124051,-114.877841,-70.0,top
-SW1,SW_Push,ResetSW,143.5,-25.0,180.0,bottom
-SW3,SW_Push,ResetSW,198.5,-25.0,180.0,bottom
-U1,SuperMini nRF52840,SuperMini_nRF52840_AH_USBup,155.715167,-46.971489,0.0,top
-U2,SuperMini nRF52840,SuperMini_nRF52840_AH_USBup,186.284833,-46.971489,0.0,top
