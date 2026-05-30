@@ -3383,6 +3383,16 @@
 	)
 	(wire
 		(pts
+			(xy 260.35 27.94) (xy 262.89 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "263adaae-001b-4203-bc3d-169ebe7afdf4")
+	)
+	(wire
+		(pts
 			(xy 161.29 120.65) (xy 179.07 120.65)
 		)
 		(stroke
@@ -3450,6 +3460,16 @@
 			(type default)
 		)
 		(uuid "345d330b-f11d-4785-a0da-906b330e08de")
+	)
+	(wire
+		(pts
+			(xy 119.38 27.94) (xy 121.92 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "361cace1-0487-425f-b744-174a024c37c6")
 	)
 	(wire
 		(pts
@@ -3793,16 +3813,6 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 25.4) (xy 121.92 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "673ed777-e2f3-42e7-ae50-daaacb366db0")
-	)
-	(wire
-		(pts
 			(xy 67.31 33.02) (xy 71.12 33.02)
 		)
 		(stroke
@@ -3900,16 +3910,6 @@
 			(type default)
 		)
 		(uuid "83ced0ad-5dd9-428b-963b-ce07e99105e2")
-	)
-	(wire
-		(pts
-			(xy 260.35 27.94) (xy 262.89 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83cfa91e-ec7f-4f1a-b230-4efd7369390c")
 	)
 	(wire
 		(pts
@@ -4203,6 +4203,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 25.4) (xy 121.92 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7e20029-435c-4747-a07d-0213251ff7d8")
+	)
+	(wire
+		(pts
 			(xy 196.85 120.65) (xy 214.63 120.65)
 		)
 		(stroke
@@ -4420,6 +4430,16 @@
 			(type default)
 		)
 		(uuid "df0b2db7-4d9e-4778-9b61-cc4ea24057b7")
+	)
+	(wire
+		(pts
+			(xy 261.62 30.48) (xy 262.89 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e00114fc-0e42-499c-afcc-d4da26247413")
 	)
 	(wire
 		(pts
@@ -6199,7 +6219,7 @@
 	)
 	(global_label "BAT_L"
 		(shape input)
-		(at 119.38 25.4 180)
+		(at 119.38 27.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6209,7 +6229,7 @@
 		)
 		(uuid "aef81b5b-9204-4e7a-974d-129bf5d859fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.0729 25.4 0)
+			(at 111.0729 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6223,7 +6243,7 @@
 	)
 	(global_label "BAT_R"
 		(shape input)
-		(at 260.35 27.94 180)
+		(at 261.62 30.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6233,7 +6253,7 @@
 		)
 		(uuid "afea4446-a6f5-4d02-9b0e-b593c8af28a9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.801 27.94 0)
+			(at 253.071 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9783,7 +9803,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 121.92 27.94 0)
+		(at 119.38 25.4 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9794,7 +9814,7 @@
 		(fields_autoplaced yes)
 		(uuid "48149cf0-a3bb-428f-bc08-013d8fe6190f")
 		(property "Reference" "#PWR013"
-			(at 121.92 34.29 0)
+			(at 119.38 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9805,17 +9825,18 @@
 			)
 		)
 		(property "Value" "GND_L"
-			(at 121.92 33.02 0)
+			(at 121.92 24.1299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 27.94 0)
+			(at 119.38 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9826,7 +9847,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 27.94 0)
+			(at 119.38 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9837,7 +9858,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 121.92 27.94 0)
+			(at 119.38 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9978,7 +9999,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 262.89 30.48 0)
+		(at 260.35 27.94 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9989,7 +10010,7 @@
 		(fields_autoplaced yes)
 		(uuid "4895d0b3-7164-4510-adc5-19e1831a70be")
 		(property "Reference" "#PWR021"
-			(at 262.89 36.83 0)
+			(at 260.35 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10000,17 +10021,18 @@
 			)
 		)
 		(property "Value" "GND_R"
-			(at 262.89 35.56 0)
+			(at 262.89 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 30.48 0)
+			(at 260.35 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10021,7 +10043,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 30.48 0)
+			(at 260.35 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10032,7 +10054,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 262.89 30.48 0)
+			(at 260.35 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12453,7 +12475,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 260.35 27.94 0)
+		(at 261.62 30.48 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12463,7 +12485,7 @@
 		(dnp no)
 		(uuid "6b86e8fb-25f9-4425-b318-2a7d11eed261")
 		(property "Reference" "#FLG07"
-			(at 260.35 26.035 0)
+			(at 261.62 32.385 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12474,7 +12496,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 264.922 23.876 0)
+			(at 257.048 34.544 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12485,7 +12507,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 260.35 27.94 0)
+			(at 261.62 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12496,7 +12518,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 27.94 0)
+			(at 261.62 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12507,7 +12529,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 260.35 27.94 0)
+			(at 261.62 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18354,7 +18376,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 119.38 25.4 0)
+		(at 119.38 27.94 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18364,7 +18386,7 @@
 		(dnp no)
 		(uuid "e3fc3698-f322-478f-99fb-60e63c2c300e")
 		(property "Reference" "#FLG09"
-			(at 119.38 23.495 0)
+			(at 119.38 29.845 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18375,7 +18397,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 123.952 21.336 0)
+			(at 114.808 32.004 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18386,7 +18408,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 25.4 0)
+			(at 119.38 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18397,7 +18419,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 25.4 0)
+			(at 119.38 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18408,7 +18430,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 119.38 25.4 0)
+			(at 119.38 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
